@@ -323,14 +323,14 @@ A comprehensive PowerPoint presentation that consolidates and summarizes all the
 
 | Tool | Usage |
 |------|-------|
-| Microsoft Excel | Data cleaning, transformation, Power Pivot data modeling, pivot tables, chart visualizations |
-| Microsoft Power BI | Interactive dashboards, DAX calculations, data modeling, geographic analysis |
-| Tableau Public | Interactive dashboards, star schema visualization, calculated fields, geographic maps, trend analysis |
-| Orange Data Mining | Visual machine learning workflows, classification, clustering, dimensionality reduction |
-| MongoDB | NoSQL database design, shell scripting, CRUD operations, aggregation pipelines |
-| Microsoft Visio | Database entity-relationship diagrams |
-| Microsoft PowerPoint | Project presentations and documentation |
-| Python | Data cleaning, transformation, and validation scripts |
+| <img src="https://cdn.simpleicons.org/microsoftexcel" width="20" height="20" /> **Microsoft Excel** | Data cleaning, transformation, Power Pivot data modeling, pivot tables, chart visualizations |
+| <img src="https://cdn.simpleicons.org/powerbi" width="20" height="20" /> **Microsoft Power BI** | Interactive dashboards, DAX calculations, data modeling, geographic analysis |
+| <img src="https://cdn.simpleicons.org/tableau" width="20" height="20" /> **Tableau Public** | Interactive dashboards, star schema visualization, calculated fields, geographic maps, trend analysis |
+| <img src="https://cdn.simpleicons.org/orangedatamining" width="20" height="20" /> **Orange Data Mining** | Visual machine learning workflows, classification, clustering, dimensionality reduction |
+| <img src="https://cdn.simpleicons.org/mongodb" width="20" height="20" /> **MongoDB** | NoSQL database design, shell scripting, CRUD operations, aggregation pipelines |
+| <img src="https://cdn.simpleicons.org/microsoftvisio" width="20" height="20" /> **Microsoft Visio** | Database entity-relationship diagrams |
+| <img src="https://cdn.simpleicons.org/microsoftpowerpoint" width="20" height="20" /> **Microsoft PowerPoint** | Project presentations and documentation |
+| <img src="https://cdn.simpleicons.org/python" width="20" height="20" /> **Python** | Data cleaning, transformation, and validation scripts |
 
 ---
 
