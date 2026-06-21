@@ -483,8 +483,16 @@ A complete gallery of all visualizations, dashboards, and analysis outputs acros
 
 ---
 
-## Contact
+## Contact & Links
 
-**Omar Rehan**
+You can reach me through the following channels:
 
-Feel free to reach out for any questions or collaboration opportunities.
+* Phone: +971 50 966 9311
+* Email: [ai.omar.rehan@gmail.com](mailto:ai.omar.rehan@gmail.com)
+* You can view my portfolio website here: [Portfolio Website](https://omar-rehan.vercel.app/?utm_source=chatgpt.com)
+* My GitHub profile is available here: [GitHub Profile](https://github.com/AIOmarRehan?utm_source=chatgpt.com)
+* Connect with me on LinkedIn here: [LinkedIn Profile](https://linkedin.com/in/omar-rehan-47b98636a?utm_source=chatgpt.com)
+* Explore my Tableau dashboards here: [Tableau Public](https://public.tableau.com/app/profile/omar.rehan?utm_source=chatgpt.com)
+* Check my Kaggle profile here: [Kaggle Profile](https://kaggle.com/aiomarrehan?utm_source=chatgpt.com)
+* Visit my Hugging Face profile here: [Hugging Face](https://huggingface.co/AIOmarRehan?utm_source=chatgpt.com)
+* Read my articles on Medium here: [Medium Profile](https://medium.com/@ai.omar.rehan?utm_source=chatgpt.com)
