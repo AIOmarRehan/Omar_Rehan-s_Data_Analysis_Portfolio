@@ -323,14 +323,14 @@ A comprehensive PowerPoint presentation that consolidates and summarizes all the
 
 | Tool | Usage |
 |------|-------|
-| <img src="https://cdn.simpleicons.org/microsoftexcel" width="20" height="20" /> **Microsoft Excel** | Data cleaning, transformation, Power Pivot data modeling, pivot tables, chart visualizations |
-| <img src="https://cdn.simpleicons.org/powerbi" width="20" height="20" /> **Microsoft Power BI** | Interactive dashboards, DAX calculations, data modeling, geographic analysis |
-| <img src="https://cdn.simpleicons.org/tableau" width="20" height="20" /> **Tableau Public** | Interactive dashboards, star schema visualization, calculated fields, geographic maps, trend analysis |
-| <img src="https://cdn.simpleicons.org/orangedatamining" width="20" height="20" /> **Orange Data Mining** | Visual machine learning workflows, classification, clustering, dimensionality reduction |
-| <img src="https://cdn.simpleicons.org/mongodb" width="20" height="20" /> **MongoDB** | NoSQL database design, shell scripting, CRUD operations, aggregation pipelines |
-| <img src="https://cdn.simpleicons.org/microsoftvisio" width="20" height="20" /> **Microsoft Visio** | Database entity-relationship diagrams |
-| <img src="https://cdn.simpleicons.org/microsoftpowerpoint" width="20" height="20" /> **Microsoft PowerPoint** | Project presentations and documentation |
-| <img src="https://cdn.simpleicons.org/python" width="20" height="20" /> **Python** | Data cleaning, transformation, and validation scripts |
+| <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="22" /> **Microsoft Excel** | Data cleaning, transformation, Power Pivot data modeling, pivot tables, chart visualizations |
+| <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="22" /> **Microsoft Power BI** | Interactive dashboards, DAX calculations, data modeling, geographic analysis |
+| <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="22" /> **Tableau Public** | Interactive dashboards, star schema visualization, calculated fields, geographic maps, trend analysis |
+| <img src="https://img.shields.io/badge/Orange_Data_Mining-F5A623?style=flat&logo=orange&logoColor=white" height="22" /> **Orange Data Mining** | Visual machine learning workflows, classification, clustering, dimensionality reduction |
+| <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="22" /> **MongoDB** | NoSQL database design, shell scripting, CRUD operations, aggregation pipelines |
+| <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=flat&logo=microsoft-visio&logoColor=white" height="22" /> **Microsoft Visio** | Database entity-relationship diagrams |
+| <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" height="22" /> **Microsoft PowerPoint** | Project presentations and documentation |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22" /> **Python** | Data cleaning, transformation, and validation scripts |
 
 ---
 
