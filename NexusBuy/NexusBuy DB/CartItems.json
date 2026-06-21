@@ -1,0 +1,80 @@
+{
+    "_id" : ObjectId("6473801acc2f5fb86850c8bd"),
+    "Quantity" : NumberInt(3),
+    "Customer" : {
+        "CustomerID" : ObjectId("64737b1fcc2f5fb86850c8a4"),
+        "Name" : "John Doe",
+        "Email" : "johndoe@example.com"
+    },
+    "Product" : {
+        "ProductID" : ObjectId("64737b72cc2f5fb86850c8ae"),
+        "Name" : "T-Shirt",
+        "Description" : "Comfortable cotton t-shirt",
+        "Price" : 19.99,
+        "Quantity" : NumberInt(50)
+    }
+}
+{
+    "_id" : ObjectId("6473801acc2f5fb86850c8bf"),
+    "Quantity" : NumberInt(1),
+    "Customer" : {
+        "CustomerID" : ObjectId("64737b1fcc2f5fb86850c8a5"),
+        "Name" : "Jane Smith",
+        "Email" : "janesmith@example.com"
+    },
+    "Product" : {
+        "ProductID" : ObjectId("64737b72cc2f5fb86850c8b0"),
+        "Name" : "Laptop",
+        "Description" : "Powerful and portable laptop",
+        "Price" : 999.99,
+        "Quantity" : NumberInt(10)
+    }
+}
+{
+    "_id" : ObjectId("6473801acc2f5fb86850c8c0"),
+    "Quantity" : NumberInt(2),
+    "Customer" : {
+        "CustomerID" : ObjectId("64737b1fcc2f5fb86850c8a8"),
+        "Name" : "David Brown",
+        "Email" : "davidbrown@example.com"
+    },
+    "Product" : {
+        "ProductID" : ObjectId("64737b72cc2f5fb86850c8ae"),
+        "Name" : "T-Shirt",
+        "Description" : "Comfortable cotton t-shirt",
+        "Price" : 19.99,
+        "Quantity" : NumberInt(50)
+    }
+}
+{
+    "_id" : ObjectId("6473801acc2f5fb86850c8c1"),
+    "Quantity" : NumberInt(1),
+    "Customer" : {
+        "CustomerID" : ObjectId("64737b1fcc2f5fb86850c8a7"),
+        "Name" : "Emily Williams",
+        "Email" : "emilywilliams@example.com"
+    },
+    "Product" : {
+        "ProductID" : ObjectId("64737b72cc2f5fb86850c8b2"),
+        "Name" : "Novel",
+        "Description" : "Bestselling novel",
+        "Price" : 9.99,
+        "Quantity" : NumberInt(100)
+    }
+}
+{
+    "_id" : ObjectId("647ad71df496b5ff3745a57d"),
+    "Quantity" : NumberInt(1),
+    "Customer" : {
+        "CustomerID" : ObjectId("647765445f0fb0581827f4ea"),
+        "Name" : "Emma Davis",
+        "Email" : "newemail@example.com"
+    },
+    "Product" : {
+        "ProductID" : ObjectId("64737b72cc2f5fb86850c8b2"),
+        "Name" : "Novel",
+        "Description" : "High-quality cookware set",
+        "Price" : 149.99,
+        "Quantity" : NumberInt(20)
+    }
+}

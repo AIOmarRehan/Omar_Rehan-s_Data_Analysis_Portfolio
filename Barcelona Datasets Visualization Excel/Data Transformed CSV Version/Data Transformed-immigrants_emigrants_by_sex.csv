@@ -1,0 +1,731 @@
+Sex_ID,Year,District Name,Neighborhood Name,Gender,Immigrants,Emigrants
+001,2017,Ciutat Vella,el Raval,Male,3063,1195
+002,2017,Ciutat Vella,el Barri GÃ²tic,Male,1499,427
+003,2017,Ciutat Vella,la Barceloneta,Male,910,361
+004,2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Male,1438,502
+005,2017,Eixample,el Fort Pienc,Male,1082,495
+006,2017,Eixample,la Sagrada FamÃ­lia,Male,1693,796
+007,2017,Eixample,la Dreta de l'Eixample,Male,1543,666
+008,2017,Eixample,l'Antiga Esquerra de l'Eixample,Male,1693,702
+009,2017,Eixample,la Nova Esquerra de l'Eixample,Male,1927,925
+010,2017,Eixample,Sant Antoni,Male,1253,632
+011,2017,Sants-MontjuÃ¯c,el Poble Sec,Male,1595,887
+012,2017,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Male,17,22
+013,2017,Sants-MontjuÃ¯c,la Marina de Port,Male,724,516
+014,2017,Sants-MontjuÃ¯c,la Font de la Guatlla,Male,351,193
+015,2017,Sants-MontjuÃ¯c,Hostafrancs,Male,584,319
+016,2017,Sants-MontjuÃ¯c,la Bordeta,Male,471,329
+017,2017,Sants-MontjuÃ¯c,Sants - Badal,Male,703,475
+018,2017,Sants-MontjuÃ¯c,Sants,Male,1407,789
+019,2017,Les Corts,les Corts,Male,1054,651
+020,2017,Les Corts,la Maternitat i Sant Ramon,Male,608,415
+021,2017,Les Corts,Pedralbes,Male,367,189
+022,2017,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Male,89,67
+023,2017,SarriÃ -Sant Gervasi,SarriÃ ,Male,606,318
+024,2017,SarriÃ -Sant Gervasi,les Tres Torres,Male,337,183
+025,2017,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Male,531,299
+026,2017,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Male,1092,598
+027,2017,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Male,733,396
+028,2017,GrÃ cia,Vallcarca i els Penitents,Male,355,229
+029,2017,GrÃ cia,el Coll,Male,166,102
+030,2017,GrÃ cia,la Salut,Male,382,184
+031,2017,GrÃ cia,la Vila de GrÃ cia,Male,1623,792
+032,2017,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Male,833,457
+033,2017,Horta-GuinardÃ³,el Baix GuinardÃ³,Male,620,371
+034,2017,Horta-GuinardÃ³,Can BarÃ³,Male,240,135
+035,2017,Horta-GuinardÃ³,el GuinardÃ³,Male,874,524
+036,2017,Horta-GuinardÃ³,la Font d'en Fargues,Male,121,97
+037,2017,Horta-GuinardÃ³,el Carmel,Male,671,461
+038,2017,Horta-GuinardÃ³,la Teixonera,Male,246,186
+039,2017,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Male,213,98
+040,2017,Horta-GuinardÃ³,Montbau,Male,129,87
+041,2017,Horta-GuinardÃ³,la Vall d'Hebron,Male,92,61
+042,2017,Horta-GuinardÃ³,la Clota,Male,18,6
+043,2017,Horta-GuinardÃ³,Horta,Male,521,329
+044,2017,Nou Barris,Vilapicina i la Torre Llobeta,Male,509,336
+045,2017,Nou Barris,Porta,Male,647,369
+046,2017,Nou Barris,el TurÃ³ de la Peira,Male,409,221
+047,2017,Nou Barris,Can Peguera,Male,26,27
+048,2017,Nou Barris,la Guineueta,Male,218,156
+049,2017,Nou Barris,Canyelles,Male,62,60
+050,2017,Nou Barris,les Roquetes,Male,413,253
+051,2017,Nou Barris,Verdun,Male,305,203
+052,2017,Nou Barris,la Prosperitat,Male,571,342
+053,2017,Nou Barris,la Trinitat Nova,Male,221,156
+054,2017,Nou Barris,Torre BarÃ³,Male,53,44
+055,2017,Nou Barris,Ciutat Meridiana,Male,409,230
+056,2017,Nou Barris,Vallbona,Male,31,28
+057,2017,Sant Andreu,la Trinitat Vella,Male,368,237
+058,2017,Sant Andreu,BarÃ³ de Viver,Male,47,43
+059,2017,Sant Andreu,el Bon Pastor,Male,307,215
+060,2017,Sant Andreu,Sant Andreu,Male,939,667
+061,2017,Sant Andreu,la Sagrera,Male,643,372
+062,2017,Sant Andreu,el CongrÃ©s i els Indians,Male,297,191
+063,2017,Sant Andreu,Navas,Male,501,300
+064,2017,Sant MartÃ­,el Camp de l'Arpa del Clot,Male,1075,595
+065,2017,Sant MartÃ­,el Clot,Male,651,373
+066,2017,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Male,490,210
+067,2017,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Male,190,140
+068,2017,Sant MartÃ­,el Poblenou,Male,874,513
+069,2017,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Male,379,263
+070,2017,Sant MartÃ­,el BesÃ²s i el Maresme,Male,1146,519
+071,2017,Sant MartÃ­,ProvenÃ§als del Poblenou,Male,469,311
+072,2017,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Male,536,357
+073,2017,Sant MartÃ­,la Verneda i la Pau,Male,602,389
+074,2017,Ciutat Vella,el Raval,Female,2337,910
+075,2017,Ciutat Vella,el Barri GÃ²tic,Female,1188,353
+076,2017,Ciutat Vella,la Barceloneta,Female,849,353
+077,2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Female,1327,528
+078,2017,Eixample,el Fort Pienc,Female,1155,586
+079,2017,Eixample,la Sagrada FamÃ­lia,Female,1898,890
+080,2017,Eixample,la Dreta de l'Eixample,Female,1657,803
+081,2017,Eixample,l'Antiga Esquerra de l'Eixample,Female,1774,672
+082,2017,Eixample,la Nova Esquerra de l'Eixample,Female,2135,1034
+083,2017,Eixample,Sant Antoni,Female,1237,682
+084,2017,Sants-MontjuÃ¯c,el Poble Sec,Female,1492,790
+085,2017,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Female,15,20
+086,2017,Sants-MontjuÃ¯c,la Marina de Port,Female,775,511
+087,2017,Sants-MontjuÃ¯c,la Font de la Guatlla,Female,295,200
+088,2017,Sants-MontjuÃ¯c,Hostafrancs,Female,575,330
+089,2017,Sants-MontjuÃ¯c,la Bordeta,Female,474,353
+090,2017,Sants-MontjuÃ¯c,Sants - Badal,Female,773,539
+091,2017,Sants-MontjuÃ¯c,Sants,Female,1432,863
+092,2017,Les Corts,les Corts,Female,1222,728
+093,2017,Les Corts,la Maternitat i Sant Ramon,Female,727,484
+094,2017,Les Corts,Pedralbes,Female,397,192
+095,2017,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Female,98,76
+096,2017,SarriÃ -Sant Gervasi,SarriÃ ,Female,602,379
+097,2017,SarriÃ -Sant Gervasi,les Tres Torres,Female,365,222
+098,2017,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Female,650,334
+099,2017,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Female,1342,680
+100,2017,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Female,782,485
+101,2017,GrÃ cia,Vallcarca i els Penitents,Female,417,261
+102,2017,GrÃ cia,el Coll,Female,206,105
+103,2017,GrÃ cia,la Salut,Female,350,202
+104,2017,GrÃ cia,la Vila de GrÃ cia,Female,1964,933
+105,2017,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Female,958,542
+106,2017,Horta-GuinardÃ³,el Baix GuinardÃ³,Female,665,385
+107,2017,Horta-GuinardÃ³,Can BarÃ³,Female,233,155
+108,2017,Horta-GuinardÃ³,el GuinardÃ³,Female,963,561
+109,2017,Horta-GuinardÃ³,la Font d'en Fargues,Female,162,100
+110,2017,Horta-GuinardÃ³,el Carmel,Female,743,500
+111,2017,Horta-GuinardÃ³,la Teixonera,Female,266,189
+112,2017,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Female,173,111
+113,2017,Horta-GuinardÃ³,Montbau,Female,127,82
+114,2017,Horta-GuinardÃ³,la Vall d'Hebron,Female,95,59
+115,2017,Horta-GuinardÃ³,la Clota,Female,21,9
+116,2017,Horta-GuinardÃ³,Horta,Female,606,354
+117,2017,Nou Barris,Vilapicina i la Torre Llobeta,Female,547,372
+118,2017,Nou Barris,Porta,Female,751,371
+119,2017,Nou Barris,el TurÃ³ de la Peira,Female,469,263
+120,2017,Nou Barris,Can Peguera,Female,31,28
+121,2017,Nou Barris,la Guineueta,Female,275,207
+122,2017,Nou Barris,Canyelles,Female,78,55
+123,2017,Nou Barris,les Roquetes,Female,507,302
+124,2017,Nou Barris,Verdun,Female,361,201
+125,2017,Nou Barris,la Prosperitat,Female,635,379
+126,2017,Nou Barris,la Trinitat Nova,Female,237,167
+127,2017,Nou Barris,Torre BarÃ³,Female,42,51
+128,2017,Nou Barris,Ciutat Meridiana,Female,429,204
+129,2017,Nou Barris,Vallbona,Female,38,36
+130,2017,Sant Andreu,la Trinitat Vella,Female,307,223
+131,2017,Sant Andreu,BarÃ³ de Viver,Female,45,46
+132,2017,Sant Andreu,el Bon Pastor,Female,351,192
+133,2017,Sant Andreu,Sant Andreu,Female,1026,739
+134,2017,Sant Andreu,la Sagrera,Female,711,461
+135,2017,Sant Andreu,el CongrÃ©s i els Indians,Female,306,205
+136,2017,Sant Andreu,Navas,Female,487,323
+137,2017,Sant MartÃ­,el Camp de l'Arpa del Clot,Female,1126,675
+138,2017,Sant MartÃ­,el Clot,Female,651,374
+139,2017,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Female,469,226
+140,2017,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Female,220,128
+141,2017,Sant MartÃ­,el Poblenou,Female,891,506
+142,2017,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Female,401,223
+143,2017,Sant MartÃ­,el BesÃ²s i el Maresme,Female,870,470
+144,2017,Sant MartÃ­,ProvenÃ§als del Poblenou,Female,505,306
+145,2017,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Female,537,363
+146,2017,Sant MartÃ­,la Verneda i la Pau,Female,638,421
+147,2016,Ciutat Vella,el Raval,Male,2819,1268
+148,2016,Ciutat Vella,el Barri GÃ²tic,Male,1135,428
+149,2016,Ciutat Vella,la Barceloneta,Male,785,352
+150,2016,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Male,1210,498
+151,2016,Eixample,el Fort Pienc,Male,962,482
+152,2016,Eixample,la Sagrada FamÃ­lia,Male,1472,771
+153,2016,Eixample,la Dreta de l'Eixample,Male,1367,657
+154,2016,Eixample,l'Antiga Esquerra de l'Eixample,Male,1412,621
+155,2016,Eixample,la Nova Esquerra de l'Eixample,Male,1667,859
+156,2016,Eixample,Sant Antoni,Male,1067,576
+157,2016,Sants-MontjuÃ¯c,el Poble Sec,Male,1439,833
+158,2016,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Male,18,22
+159,2016,Sants-MontjuÃ¯c,la Marina de Port,Male,622,513
+160,2016,Sants-MontjuÃ¯c,la Font de la Guatlla,Male,302,193
+161,2016,Sants-MontjuÃ¯c,Hostafrancs,Male,518,329
+162,2016,Sants-MontjuÃ¯c,la Bordeta,Male,442,309
+163,2016,Sants-MontjuÃ¯c,Sants - Badal,Male,642,499
+164,2016,Sants-MontjuÃ¯c,Sants,Male,1121,754
+165,2016,Les Corts,les Corts,Male,977,666
+166,2016,Les Corts,la Maternitat i Sant Ramon,Male,588,372
+167,2016,Les Corts,Pedralbes,Male,369,180
+168,2016,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Male,75,67
+169,2016,SarriÃ -Sant Gervasi,SarriÃ ,Male,542,345
+170,2016,SarriÃ -Sant Gervasi,les Tres Torres,Male,264,191
+171,2016,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Male,526,309
+172,2016,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Male,1041,565
+173,2016,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Male,580,423
+174,2016,GrÃ cia,Vallcarca i els Penitents,Male,325,220
+175,2016,GrÃ cia,el Coll,Male,161,117
+176,2016,GrÃ cia,la Salut,Male,304,171
+177,2016,GrÃ cia,la Vila de GrÃ cia,Male,1405,767
+178,2016,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Male,702,427
+179,2016,Horta-GuinardÃ³,el Baix GuinardÃ³,Male,510,349
+180,2016,Horta-GuinardÃ³,Can BarÃ³,Male,174,118
+181,2016,Horta-GuinardÃ³,el GuinardÃ³,Male,774,449
+182,2016,Horta-GuinardÃ³,la Font d'en Fargues,Male,99,109
+183,2016,Horta-GuinardÃ³,el Carmel,Male,555,422
+184,2016,Horta-GuinardÃ³,la Teixonera,Male,268,149
+185,2016,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Male,177,83
+186,2016,Horta-GuinardÃ³,Montbau,Male,97,60
+187,2016,Horta-GuinardÃ³,la Vall d'Hebron,Male,113,58
+188,2016,Horta-GuinardÃ³,la Clota,Male,8,5
+189,2016,Horta-GuinardÃ³,Horta,Male,463,283
+190,2016,Nou Barris,Vilapicina i la Torre Llobeta,Male,447,287
+191,2016,Nou Barris,Porta,Male,548,308
+192,2016,Nou Barris,el TurÃ³ de la Peira,Male,336,219
+193,2016,Nou Barris,Can Peguera,Male,31,27
+194,2016,Nou Barris,la Guineueta,Male,204,115
+195,2016,Nou Barris,Canyelles,Male,64,83
+196,2016,Nou Barris,les Roquetes,Male,383,221
+197,2016,Nou Barris,Verdun,Male,273,187
+198,2016,Nou Barris,la Prosperitat,Male,475,363
+199,2016,Nou Barris,la Trinitat Nova,Male,171,118
+200,2016,Nou Barris,Torre BarÃ³,Male,55,42
+201,2016,Nou Barris,Ciutat Meridiana,Male,316,204
+202,2016,Nou Barris,Vallbona,Male,37,29
+203,2016,Sant Andreu,la Trinitat Vella,Male,300,227
+204,2016,Sant Andreu,BarÃ³ de Viver,Male,40,50
+205,2016,Sant Andreu,el Bon Pastor,Male,251,220
+206,2016,Sant Andreu,Sant Andreu,Male,854,661
+207,2016,Sant Andreu,la Sagrera,Male,533,358
+208,2016,Sant Andreu,el CongrÃ©s i els Indians,Male,251,181
+209,2016,Sant Andreu,Navas,Male,443,313
+210,2016,Sant MartÃ­,el Camp de l'Arpa del Clot,Male,920,589
+211,2016,Sant MartÃ­,el Clot,Male,570,373
+212,2016,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Male,450,226
+213,2016,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Male,196,116
+214,2016,Sant MartÃ­,el Poblenou,Male,807,473
+215,2016,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Male,337,192
+216,2016,Sant MartÃ­,el BesÃ²s i el Maresme,Male,871,598
+217,2016,Sant MartÃ­,ProvenÃ§als del Poblenou,Male,398,313
+218,2016,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Male,502,360
+219,2016,Sant MartÃ­,la Verneda i la Pau,Male,506,384
+220,2016,Ciutat Vella,el Raval,Female,2157,905
+221,2016,Ciutat Vella,el Barri GÃ²tic,Female,1063,337
+222,2016,Ciutat Vella,la Barceloneta,Female,763,294
+223,2016,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Female,1167,428
+224,2016,Eixample,el Fort Pienc,Female,1032,500
+225,2016,Eixample,la Sagrada FamÃ­lia,Female,1683,866
+226,2016,Eixample,la Dreta de l'Eixample,Female,1576,764
+227,2016,Eixample,l'Antiga Esquerra de l'Eixample,Female,1499,679
+228,2016,Eixample,la Nova Esquerra de l'Eixample,Female,1819,950
+229,2016,Eixample,Sant Antoni,Female,1079,555
+230,2016,Sants-MontjuÃ¯c,el Poble Sec,Female,1290,772
+231,2016,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Female,17,26
+232,2016,Sants-MontjuÃ¯c,la Marina de Port,Female,679,510
+233,2016,Sants-MontjuÃ¯c,la Font de la Guatlla,Female,298,199
+234,2016,Sants-MontjuÃ¯c,Hostafrancs,Female,505,323
+235,2016,Sants-MontjuÃ¯c,la Bordeta,Female,445,329
+236,2016,Sants-MontjuÃ¯c,Sants - Badal,Female,724,544
+237,2016,Sants-MontjuÃ¯c,Sants,Female,1201,770
+238,2016,Les Corts,les Corts,Female,1070,660
+239,2016,Les Corts,la Maternitat i Sant Ramon,Female,622,430
+240,2016,Les Corts,Pedralbes,Female,366,178
+241,2016,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Female,75,70
+242,2016,SarriÃ -Sant Gervasi,SarriÃ ,Female,589,378
+243,2016,SarriÃ -Sant Gervasi,les Tres Torres,Female,348,232
+244,2016,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Female,597,364
+245,2016,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Female,1228,665
+246,2016,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Female,691,485
+247,2016,GrÃ cia,Vallcarca i els Penitents,Female,354,219
+248,2016,GrÃ cia,el Coll,Female,171,131
+249,2016,GrÃ cia,la Salut,Female,305,166
+250,2016,GrÃ cia,la Vila de GrÃ cia,Female,1650,848
+251,2016,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Female,803,469
+252,2016,Horta-GuinardÃ³,el Baix GuinardÃ³,Female,550,365
+253,2016,Horta-GuinardÃ³,Can BarÃ³,Female,200,129
+254,2016,Horta-GuinardÃ³,el GuinardÃ³,Female,852,577
+255,2016,Horta-GuinardÃ³,la Font d'en Fargues,Female,103,108
+256,2016,Horta-GuinardÃ³,el Carmel,Female,598,457
+257,2016,Horta-GuinardÃ³,la Teixonera,Female,268,175
+258,2016,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Female,170,83
+259,2016,Horta-GuinardÃ³,Montbau,Female,134,64
+260,2016,Horta-GuinardÃ³,la Vall d'Hebron,Female,98,55
+261,2016,Horta-GuinardÃ³,la Clota,Female,15,3
+262,2016,Horta-GuinardÃ³,Horta,Female,506,317
+263,2016,Nou Barris,Vilapicina i la Torre Llobeta,Female,509,361
+264,2016,Nou Barris,Porta,Female,618,352
+265,2016,Nou Barris,el TurÃ³ de la Peira,Female,381,231
+266,2016,Nou Barris,Can Peguera,Female,37,27
+267,2016,Nou Barris,la Guineueta,Female,260,143
+268,2016,Nou Barris,Canyelles,Female,65,79
+269,2016,Nou Barris,les Roquetes,Female,469,303
+270,2016,Nou Barris,Verdun,Female,303,205
+271,2016,Nou Barris,la Prosperitat,Female,624,367
+272,2016,Nou Barris,la Trinitat Nova,Female,174,132
+273,2016,Nou Barris,Torre BarÃ³,Female,70,35
+274,2016,Nou Barris,Ciutat Meridiana,Female,310,188
+275,2016,Nou Barris,Vallbona,Female,28,22
+276,2016,Sant Andreu,la Trinitat Vella,Female,245,170
+277,2016,Sant Andreu,BarÃ³ de Viver,Female,44,40
+278,2016,Sant Andreu,el Bon Pastor,Female,233,219
+279,2016,Sant Andreu,Sant Andreu,Female,896,708
+280,2016,Sant Andreu,la Sagrera,Female,646,388
+281,2016,Sant Andreu,el CongrÃ©s i els Indians,Female,299,190
+282,2016,Sant Andreu,Navas,Female,470,346
+283,2016,Sant MartÃ­,el Camp de l'Arpa del Clot,Female,974,680
+284,2016,Sant MartÃ­,el Clot,Female,589,379
+285,2016,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Female,406,236
+286,2016,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Female,195,104
+287,2016,Sant MartÃ­,el Poblenou,Female,813,483
+288,2016,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Female,332,193
+289,2016,Sant MartÃ­,el BesÃ²s i el Maresme,Female,704,484
+290,2016,Sant MartÃ­,ProvenÃ§als del Poblenou,Female,407,320
+291,2016,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Female,535,403
+292,2016,Sant MartÃ­,la Verneda i la Pau,Female,501,396
+293,2015,Ciutat Vella,el Raval,Male,3219,1541
+294,2015,Ciutat Vella,el Barri GÃ²tic,Male,1164,435
+295,2015,Ciutat Vella,la Barceloneta,Male,808,326
+296,2015,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Male,1302,564
+297,2015,Eixample,el Fort Pienc,Male,999,519
+298,2015,Eixample,la Sagrada FamÃ­lia,Male,1544,817
+299,2015,Eixample,la Dreta de l'Eixample,Male,1376,673
+300,2015,Eixample,l'Antiga Esquerra de l'Eixample,Male,1443,675
+301,2015,Eixample,la Nova Esquerra de l'Eixample,Male,1699,941
+302,2015,Eixample,Sant Antoni,Male,1188,726
+303,2015,Sants-MontjuÃ¯c,el Poble Sec,Male,1573,968
+304,2015,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Male,33,19
+305,2015,Sants-MontjuÃ¯c,la Marina de Port,Male,691,546
+306,2015,Sants-MontjuÃ¯c,la Font de la Guatlla,Male,372,209
+307,2015,Sants-MontjuÃ¯c,Hostafrancs,Male,605,356
+308,2015,Sants-MontjuÃ¯c,la Bordeta,Male,488,366
+309,2015,Sants-MontjuÃ¯c,Sants - Badal,Male,708,568
+310,2015,Sants-MontjuÃ¯c,Sants,Male,1224,918
+311,2015,Les Corts,les Corts,Male,1022,675
+312,2015,Les Corts,la Maternitat i Sant Ramon,Male,626,400
+313,2015,Les Corts,Pedralbes,Male,392,208
+314,2015,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Male,110,88
+315,2015,SarriÃ -Sant Gervasi,SarriÃ ,Male,579,349
+316,2015,SarriÃ -Sant Gervasi,les Tres Torres,Male,313,191
+317,2015,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Male,575,366
+318,2015,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Male,1032,586
+319,2015,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Male,679,408
+320,2015,GrÃ cia,Vallcarca i els Penitents,Male,312,220
+321,2015,GrÃ cia,el Coll,Male,177,119
+322,2015,GrÃ cia,la Salut,Male,268,167
+323,2015,GrÃ cia,la Vila de GrÃ cia,Male,1607,782
+324,2015,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Male,780,464
+325,2015,Horta-GuinardÃ³,el Baix GuinardÃ³,Male,587,367
+326,2015,Horta-GuinardÃ³,Can BarÃ³,Male,205,128
+327,2015,Horta-GuinardÃ³,el GuinardÃ³,Male,805,487
+328,2015,Horta-GuinardÃ³,la Font d'en Fargues,Male,125,91
+329,2015,Horta-GuinardÃ³,el Carmel,Male,564,449
+330,2015,Horta-GuinardÃ³,la Teixonera,Male,205,158
+331,2015,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Male,135,117
+332,2015,Horta-GuinardÃ³,Montbau,Male,112,61
+333,2015,Horta-GuinardÃ³,la Vall d'Hebron,Male,99,55
+334,2015,Horta-GuinardÃ³,la Clota,Male,20,11
+335,2015,Horta-GuinardÃ³,Horta,Male,481,319
+336,2015,Nou Barris,Vilapicina i la Torre Llobeta,Male,498,322
+337,2015,Nou Barris,Porta,Male,510,302
+338,2015,Nou Barris,el TurÃ³ de la Peira,Male,382,223
+339,2015,Nou Barris,Can Peguera,Male,17,26
+340,2015,Nou Barris,la Guineueta,Male,203,187
+341,2015,Nou Barris,Canyelles,Male,77,72
+342,2015,Nou Barris,les Roquetes,Male,409,287
+343,2015,Nou Barris,Verdun,Male,278,203
+344,2015,Nou Barris,la Prosperitat,Male,497,379
+345,2015,Nou Barris,la Trinitat Nova,Male,189,142
+346,2015,Nou Barris,Torre BarÃ³,Male,70,47
+347,2015,Nou Barris,Ciutat Meridiana,Male,303,286
+348,2015,Nou Barris,Vallbona,Male,37,24
+349,2015,Sant Andreu,la Trinitat Vella,Male,407,296
+350,2015,Sant Andreu,BarÃ³ de Viver,Male,61,36
+351,2015,Sant Andreu,el Bon Pastor,Male,310,245
+352,2015,Sant Andreu,Sant Andreu,Male,898,706
+353,2015,Sant Andreu,la Sagrera,Male,548,364
+354,2015,Sant Andreu,el CongrÃ©s i els Indians,Male,272,200
+355,2015,Sant Andreu,Navas,Male,470,319
+356,2015,Sant MartÃ­,el Camp de l'Arpa del Clot,Male,935,623
+357,2015,Sant MartÃ­,el Clot,Male,612,405
+358,2015,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Male,442,271
+359,2015,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Male,243,128
+360,2015,Sant MartÃ­,el Poblenou,Male,800,477
+361,2015,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Male,348,241
+362,2015,Sant MartÃ­,el BesÃ²s i el Maresme,Male,921,709
+363,2015,Sant MartÃ­,ProvenÃ§als del Poblenou,Male,474,301
+364,2015,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Male,496,335
+365,2015,Sant MartÃ­,la Verneda i la Pau,Male,529,437
+366,2015,Ciutat Vella,el Raval,Female,2118,993
+367,2015,Ciutat Vella,el Barri GÃ²tic,Female,1038,337
+368,2015,Ciutat Vella,la Barceloneta,Female,746,316
+369,2015,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Female,1250,520
+370,2015,Eixample,el Fort Pienc,Female,1005,533
+371,2015,Eixample,la Sagrada FamÃ­lia,Female,1722,866
+372,2015,Eixample,la Dreta de l'Eixample,Female,1597,807
+373,2015,Eixample,l'Antiga Esquerra de l'Eixample,Female,1493,702
+374,2015,Eixample,la Nova Esquerra de l'Eixample,Female,1844,995
+375,2015,Eixample,Sant Antoni,Female,1108,645
+376,2015,Sants-MontjuÃ¯c,el Poble Sec,Female,1321,902
+377,2015,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Female,28,20
+378,2015,Sants-MontjuÃ¯c,la Marina de Port,Female,674,502
+379,2015,Sants-MontjuÃ¯c,la Font de la Guatlla,Female,390,226
+380,2015,Sants-MontjuÃ¯c,Hostafrancs,Female,569,324
+381,2015,Sants-MontjuÃ¯c,la Bordeta,Female,451,369
+382,2015,Sants-MontjuÃ¯c,Sants - Badal,Female,767,569
+383,2015,Sants-MontjuÃ¯c,Sants,Female,1285,896
+384,2015,Les Corts,les Corts,Female,1099,737
+385,2015,Les Corts,la Maternitat i Sant Ramon,Female,714,453
+386,2015,Les Corts,Pedralbes,Female,350,193
+387,2015,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Female,121,90
+388,2015,SarriÃ -Sant Gervasi,SarriÃ ,Female,608,368
+389,2015,SarriÃ -Sant Gervasi,les Tres Torres,Female,396,245
+390,2015,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Female,642,407
+391,2015,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Female,1236,721
+392,2015,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Female,780,429
+393,2015,GrÃ cia,Vallcarca i els Penitents,Female,351,201
+394,2015,GrÃ cia,el Coll,Female,195,108
+395,2015,GrÃ cia,la Salut,Female,286,204
+396,2015,GrÃ cia,la Vila de GrÃ cia,Female,1895,931
+397,2015,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Female,863,471
+398,2015,Horta-GuinardÃ³,el Baix GuinardÃ³,Female,618,394
+399,2015,Horta-GuinardÃ³,Can BarÃ³,Female,197,133
+400,2015,Horta-GuinardÃ³,el GuinardÃ³,Female,858,579
+401,2015,Horta-GuinardÃ³,la Font d'en Fargues,Female,105,105
+402,2015,Horta-GuinardÃ³,el Carmel,Female,601,507
+403,2015,Horta-GuinardÃ³,la Teixonera,Female,215,159
+404,2015,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Female,136,123
+405,2015,Horta-GuinardÃ³,Montbau,Female,110,60
+406,2015,Horta-GuinardÃ³,la Vall d'Hebron,Female,85,53
+407,2015,Horta-GuinardÃ³,la Clota,Female,8,9
+408,2015,Horta-GuinardÃ³,Horta,Female,507,293
+409,2015,Nou Barris,Vilapicina i la Torre Llobeta,Female,507,344
+410,2015,Nou Barris,Porta,Female,494,312
+411,2015,Nou Barris,el TurÃ³ de la Peira,Female,378,261
+412,2015,Nou Barris,Can Peguera,Female,24,27
+413,2015,Nou Barris,la Guineueta,Female,232,196
+414,2015,Nou Barris,Canyelles,Female,85,89
+415,2015,Nou Barris,les Roquetes,Female,433,303
+416,2015,Nou Barris,Verdun,Female,316,206
+417,2015,Nou Barris,la Prosperitat,Female,564,393
+418,2015,Nou Barris,la Trinitat Nova,Female,191,136
+419,2015,Nou Barris,Torre BarÃ³,Female,71,43
+420,2015,Nou Barris,Ciutat Meridiana,Female,297,262
+421,2015,Nou Barris,Vallbona,Female,36,21
+422,2015,Sant Andreu,la Trinitat Vella,Female,287,200
+423,2015,Sant Andreu,BarÃ³ de Viver,Female,49,65
+424,2015,Sant Andreu,el Bon Pastor,Female,269,184
+425,2015,Sant Andreu,Sant Andreu,Female,913,702
+426,2015,Sant Andreu,la Sagrera,Female,628,419
+427,2015,Sant Andreu,el CongrÃ©s i els Indians,Female,295,222
+428,2015,Sant Andreu,Navas,Female,462,320
+429,2015,Sant MartÃ­,el Camp de l'Arpa del Clot,Female,1013,654
+430,2015,Sant MartÃ­,el Clot,Female,603,437
+431,2015,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Female,449,263
+432,2015,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Female,241,132
+433,2015,Sant MartÃ­,el Poblenou,Female,804,515
+434,2015,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Female,325,216
+435,2015,Sant MartÃ­,el BesÃ²s i el Maresme,Female,652,561
+436,2015,Sant MartÃ­,ProvenÃ§als del Poblenou,Female,467,269
+437,2015,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Female,463,363
+438,2015,Sant MartÃ­,la Verneda i la Pau,Female,564,469
+439,2014,Ciutat Vella,el Raval,Male,2810,1485
+440,2014,Ciutat Vella,el Barri GÃ²tic,Male,947,429
+441,2014,Ciutat Vella,la Barceloneta,Male,704,363
+442,2014,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Male,1175,520
+443,2014,Eixample,el Fort Pienc,Male,916,491
+444,2014,Eixample,la Sagrada FamÃ­lia,Male,1357,788
+445,2014,Eixample,la Dreta de l'Eixample,Male,1319,679
+446,2014,Eixample,l'Antiga Esquerra de l'Eixample,Male,1303,616
+447,2014,Eixample,la Nova Esquerra de l'Eixample,Male,1594,896
+448,2014,Eixample,Sant Antoni,Male,1137,624
+449,2014,Sants-MontjuÃ¯c,el Poble Sec,Male,1467,981
+450,2014,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Male,20,24
+451,2014,Sants-MontjuÃ¯c,la Marina de Port,Male,710,505
+452,2014,Sants-MontjuÃ¯c,la Font de la Guatlla,Male,293,193
+453,2014,Sants-MontjuÃ¯c,Hostafrancs,Male,544,405
+454,2014,Sants-MontjuÃ¯c,la Bordeta,Male,455,360
+455,2014,Sants-MontjuÃ¯c,Sants - Badal,Male,703,561
+456,2014,Sants-MontjuÃ¯c,Sants,Male,1222,887
+457,2014,Les Corts,les Corts,Male,922,647
+458,2014,Les Corts,la Maternitat i Sant Ramon,Male,682,382
+459,2014,Les Corts,Pedralbes,Male,349,209
+460,2014,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Male,93,72
+461,2014,SarriÃ -Sant Gervasi,SarriÃ ,Male,510,325
+462,2014,SarriÃ -Sant Gervasi,les Tres Torres,Male,369,224
+463,2014,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Male,553,321
+464,2014,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Male,980,603
+465,2014,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Male,693,337
+466,2014,GrÃ cia,Vallcarca i els Penitents,Male,308,195
+467,2014,GrÃ cia,el Coll,Male,166,104
+468,2014,GrÃ cia,la Salut,Male,292,168
+469,2014,GrÃ cia,la Vila de GrÃ cia,Male,1511,853
+470,2014,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Male,730,490
+471,2014,Horta-GuinardÃ³,el Baix GuinardÃ³,Male,539,362
+472,2014,Horta-GuinardÃ³,Can BarÃ³,Male,163,127
+473,2014,Horta-GuinardÃ³,el GuinardÃ³,Male,682,475
+474,2014,Horta-GuinardÃ³,la Font d'en Fargues,Male,106,109
+475,2014,Horta-GuinardÃ³,el Carmel,Male,524,480
+476,2014,Horta-GuinardÃ³,la Teixonera,Male,208,169
+477,2014,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Male,109,107
+478,2014,Horta-GuinardÃ³,Montbau,Male,83,46
+479,2014,Horta-GuinardÃ³,la Vall d'Hebron,Male,95,58
+480,2014,Horta-GuinardÃ³,la Clota,Male,9,8
+481,2014,Horta-GuinardÃ³,Horta,Male,467,324
+482,2014,Nou Barris,Vilapicina i la Torre Llobeta,Male,473,358
+483,2014,Nou Barris,Porta,Male,488,399
+484,2014,Nou Barris,el TurÃ³ de la Peira,Male,328,256
+485,2014,Nou Barris,Can Peguera,Male,22,46
+486,2014,Nou Barris,la Guineueta,Male,186,173
+487,2014,Nou Barris,Canyelles,Male,75,83
+488,2014,Nou Barris,les Roquetes,Male,380,286
+489,2014,Nou Barris,Verdun,Male,275,190
+490,2014,Nou Barris,la Prosperitat,Male,431,364
+491,2014,Nou Barris,la Trinitat Nova,Male,184,126
+492,2014,Nou Barris,Torre BarÃ³,Male,78,58
+493,2014,Nou Barris,Ciutat Meridiana,Male,356,287
+494,2014,Nou Barris,Vallbona,Male,29,34
+495,2014,Sant Andreu,la Trinitat Vella,Male,387,311
+496,2014,Sant Andreu,BarÃ³ de Viver,Male,57,76
+497,2014,Sant Andreu,el Bon Pastor,Male,320,253
+498,2014,Sant Andreu,Sant Andreu,Male,832,738
+499,2014,Sant Andreu,la Sagrera,Male,594,490
+500,2014,Sant Andreu,el CongrÃ©s i els Indians,Male,272,185
+501,2014,Sant Andreu,Navas,Male,429,294
+502,2014,Sant MartÃ­,el Camp de l'Arpa del Clot,Male,888,625
+503,2014,Sant MartÃ­,el Clot,Male,579,401
+504,2014,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Male,424,228
+505,2014,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Male,176,138
+506,2014,Sant MartÃ­,el Poblenou,Male,847,501
+507,2014,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Male,307,222
+508,2014,Sant MartÃ­,el BesÃ²s i el Maresme,Male,964,635
+509,2014,Sant MartÃ­,ProvenÃ§als del Poblenou,Male,432,305
+510,2014,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Male,468,364
+511,2014,Sant MartÃ­,la Verneda i la Pau,Male,534,398
+512,2014,Ciutat Vella,el Raval,Female,1877,1024
+513,2014,Ciutat Vella,el Barri GÃ²tic,Female,791,344
+514,2014,Ciutat Vella,la Barceloneta,Female,618,309
+515,2014,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Female,1041,492
+516,2014,Eixample,el Fort Pienc,Female,907,546
+517,2014,Eixample,la Sagrada FamÃ­lia,Female,1519,892
+518,2014,Eixample,la Dreta de l'Eixample,Female,1481,746
+519,2014,Eixample,l'Antiga Esquerra de l'Eixample,Female,1375,755
+520,2014,Eixample,la Nova Esquerra de l'Eixample,Female,1709,1047
+521,2014,Eixample,Sant Antoni,Female,1051,687
+522,2014,Sants-MontjuÃ¯c,el Poble Sec,Female,1199,856
+523,2014,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Female,17,28
+524,2014,Sants-MontjuÃ¯c,la Marina de Port,Female,628,524
+525,2014,Sants-MontjuÃ¯c,la Font de la Guatlla,Female,280,170
+526,2014,Sants-MontjuÃ¯c,Hostafrancs,Female,535,381
+527,2014,Sants-MontjuÃ¯c,la Bordeta,Female,433,330
+528,2014,Sants-MontjuÃ¯c,Sants - Badal,Female,688,604
+529,2014,Sants-MontjuÃ¯c,Sants,Female,1203,843
+530,2014,Les Corts,les Corts,Female,1054,686
+531,2014,Les Corts,la Maternitat i Sant Ramon,Female,696,409
+532,2014,Les Corts,Pedralbes,Female,328,194
+533,2014,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Female,110,74
+534,2014,SarriÃ -Sant Gervasi,SarriÃ ,Female,558,393
+535,2014,SarriÃ -Sant Gervasi,les Tres Torres,Female,402,218
+536,2014,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Female,565,354
+537,2014,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Female,1129,682
+538,2014,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Female,710,397
+539,2014,GrÃ cia,Vallcarca i els Penitents,Female,328,217
+540,2014,GrÃ cia,el Coll,Female,186,90
+541,2014,GrÃ cia,la Salut,Female,302,178
+542,2014,GrÃ cia,la Vila de GrÃ cia,Female,1666,859
+543,2014,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Female,740,485
+544,2014,Horta-GuinardÃ³,el Baix GuinardÃ³,Female,508,378
+545,2014,Horta-GuinardÃ³,Can BarÃ³,Female,181,136
+546,2014,Horta-GuinardÃ³,el GuinardÃ³,Female,730,544
+547,2014,Horta-GuinardÃ³,la Font d'en Fargues,Female,112,104
+548,2014,Horta-GuinardÃ³,el Carmel,Female,523,436
+549,2014,Horta-GuinardÃ³,la Teixonera,Female,216,164
+550,2014,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Female,113,104
+551,2014,Horta-GuinardÃ³,Montbau,Female,98,59
+552,2014,Horta-GuinardÃ³,la Vall d'Hebron,Female,83,63
+553,2014,Horta-GuinardÃ³,la Clota,Female,5,9
+554,2014,Horta-GuinardÃ³,Horta,Female,487,330
+555,2014,Nou Barris,Vilapicina i la Torre Llobeta,Female,486,391
+556,2014,Nou Barris,Porta,Female,478,373
+557,2014,Nou Barris,el TurÃ³ de la Peira,Female,383,310
+558,2014,Nou Barris,Can Peguera,Female,23,45
+559,2014,Nou Barris,la Guineueta,Female,237,191
+560,2014,Nou Barris,Canyelles,Female,70,73
+561,2014,Nou Barris,les Roquetes,Female,422,309
+562,2014,Nou Barris,Verdun,Female,320,224
+563,2014,Nou Barris,la Prosperitat,Female,459,394
+564,2014,Nou Barris,la Trinitat Nova,Female,148,126
+565,2014,Nou Barris,Torre BarÃ³,Female,57,60
+566,2014,Nou Barris,Ciutat Meridiana,Female,326,251
+567,2014,Nou Barris,Vallbona,Female,35,36
+568,2014,Sant Andreu,la Trinitat Vella,Female,262,247
+569,2014,Sant Andreu,BarÃ³ de Viver,Female,56,77
+570,2014,Sant Andreu,el Bon Pastor,Female,252,227
+571,2014,Sant Andreu,Sant Andreu,Female,892,716
+572,2014,Sant Andreu,la Sagrera,Female,663,470
+573,2014,Sant Andreu,el CongrÃ©s i els Indians,Female,299,206
+574,2014,Sant Andreu,Navas,Female,460,335
+575,2014,Sant MartÃ­,el Camp de l'Arpa del Clot,Female,956,651
+576,2014,Sant MartÃ­,el Clot,Female,584,409
+577,2014,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Female,372,227
+578,2014,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Female,190,116
+579,2014,Sant MartÃ­,el Poblenou,Female,730,507
+580,2014,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Female,302,206
+581,2014,Sant MartÃ­,el BesÃ²s i el Maresme,Female,648,455
+582,2014,Sant MartÃ­,ProvenÃ§als del Poblenou,Female,410,305
+583,2014,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Female,496,355
+584,2014,Sant MartÃ­,la Verneda i la Pau,Female,562,426
+585,2013,Ciutat Vella,el Raval,Male,2817,1485
+586,2013,Ciutat Vella,el Barri GÃ²tic,Male,921,429
+587,2013,Ciutat Vella,la Barceloneta,Male,665,363
+588,2013,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Male,943,520
+589,2013,Eixample,el Fort Pienc,Male,782,491
+590,2013,Eixample,la Sagrada FamÃ­lia,Male,1173,788
+591,2013,Eixample,la Dreta de l'Eixample,Male,1103,679
+592,2013,Eixample,l'Antiga Esquerra de l'Eixample,Male,1200,616
+593,2013,Eixample,la Nova Esquerra de l'Eixample,Male,1477,896
+594,2013,Eixample,Sant Antoni,Male,1002,624
+595,2013,Sants-MontjuÃ¯c,el Poble Sec,Male,1361,981
+596,2013,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Male,20,24
+597,2013,Sants-MontjuÃ¯c,la Marina de Port,Male,614,505
+598,2013,Sants-MontjuÃ¯c,la Font de la Guatlla,Male,302,193
+599,2013,Sants-MontjuÃ¯c,Hostafrancs,Male,499,405
+600,2013,Sants-MontjuÃ¯c,la Bordeta,Male,437,360
+601,2013,Sants-MontjuÃ¯c,Sants - Badal,Male,686,561
+602,2013,Sants-MontjuÃ¯c,Sants,Male,1145,887
+603,2013,Les Corts,les Corts,Male,942,647
+604,2013,Les Corts,la Maternitat i Sant Ramon,Male,540,382
+605,2013,Les Corts,Pedralbes,Male,316,209
+606,2013,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Male,74,72
+607,2013,SarriÃ -Sant Gervasi,SarriÃ ,Male,468,325
+608,2013,SarriÃ -Sant Gervasi,les Tres Torres,Male,374,224
+609,2013,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Male,474,321
+610,2013,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Male,828,603
+611,2013,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Male,537,337
+612,2013,GrÃ cia,Vallcarca i els Penitents,Male,287,195
+613,2013,GrÃ cia,el Coll,Male,140,104
+614,2013,GrÃ cia,la Salut,Male,239,168
+615,2013,GrÃ cia,la Vila de GrÃ cia,Male,1324,853
+616,2013,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Male,622,490
+617,2013,Horta-GuinardÃ³,el Baix GuinardÃ³,Male,476,362
+618,2013,Horta-GuinardÃ³,Can BarÃ³,Male,165,127
+619,2013,Horta-GuinardÃ³,el GuinardÃ³,Male,618,475
+620,2013,Horta-GuinardÃ³,la Font d'en Fargues,Male,102,109
+621,2013,Horta-GuinardÃ³,el Carmel,Male,574,480
+622,2013,Horta-GuinardÃ³,la Teixonera,Male,195,169
+623,2013,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Male,120,107
+624,2013,Horta-GuinardÃ³,Montbau,Male,99,46
+625,2013,Horta-GuinardÃ³,la Vall d'Hebron,Male,88,58
+626,2013,Horta-GuinardÃ³,la Clota,Male,12,8
+627,2013,Horta-GuinardÃ³,Horta,Male,468,324
+628,2013,Nou Barris,Vilapicina i la Torre Llobeta,Male,438,358
+629,2013,Nou Barris,Porta,Male,443,399
+630,2013,Nou Barris,el TurÃ³ de la Peira,Male,351,256
+631,2013,Nou Barris,Can Peguera,Male,49,46
+632,2013,Nou Barris,la Guineueta,Male,177,173
+633,2013,Nou Barris,Canyelles,Male,82,83
+634,2013,Nou Barris,les Roquetes,Male,376,286
+635,2013,Nou Barris,Verdun,Male,249,190
+636,2013,Nou Barris,la Prosperitat,Male,458,364
+637,2013,Nou Barris,la Trinitat Nova,Male,162,126
+638,2013,Nou Barris,Torre BarÃ³,Male,68,58
+639,2013,Nou Barris,Ciutat Meridiana,Male,389,287
+640,2013,Nou Barris,Vallbona,Male,21,34
+641,2013,Sant Andreu,la Trinitat Vella,Male,387,311
+642,2013,Sant Andreu,BarÃ³ de Viver,Male,84,76
+643,2013,Sant Andreu,el Bon Pastor,Male,289,253
+644,2013,Sant Andreu,Sant Andreu,Male,770,738
+645,2013,Sant Andreu,la Sagrera,Male,550,490
+646,2013,Sant Andreu,el CongrÃ©s i els Indians,Male,239,185
+647,2013,Sant Andreu,Navas,Male,361,294
+648,2013,Sant MartÃ­,el Camp de l'Arpa del Clot,Male,829,625
+649,2013,Sant MartÃ­,el Clot,Male,542,401
+650,2013,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Male,435,228
+651,2013,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Male,175,138
+652,2013,Sant MartÃ­,el Poblenou,Male,718,501
+653,2013,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Male,273,222
+654,2013,Sant MartÃ­,el BesÃ²s i el Maresme,Male,894,635
+655,2013,Sant MartÃ­,ProvenÃ§als del Poblenou,Male,370,305
+656,2013,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Male,464,364
+657,2013,Sant MartÃ­,la Verneda i la Pau,Male,475,398
+658,2013,Ciutat Vella,el Raval,Female,1716,1024
+659,2013,Ciutat Vella,el Barri GÃ²tic,Female,751,344
+660,2013,Ciutat Vella,la Barceloneta,Female,540,309
+661,2013,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Female,882,492
+662,2013,Eixample,el Fort Pienc,Female,815,546
+663,2013,Eixample,la Sagrada FamÃ­lia,Female,1359,892
+664,2013,Eixample,la Dreta de l'Eixample,Female,1240,746
+665,2013,Eixample,l'Antiga Esquerra de l'Eixample,Female,1272,755
+666,2013,Eixample,la Nova Esquerra de l'Eixample,Female,1520,1047
+667,2013,Eixample,Sant Antoni,Female,997,687
+668,2013,Sants-MontjuÃ¯c,el Poble Sec,Female,1097,856
+669,2013,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Female,17,28
+670,2013,Sants-MontjuÃ¯c,la Marina de Port,Female,600,524
+671,2013,Sants-MontjuÃ¯c,la Font de la Guatlla,Female,297,170
+672,2013,Sants-MontjuÃ¯c,Hostafrancs,Female,466,381
+673,2013,Sants-MontjuÃ¯c,la Bordeta,Female,423,330
+674,2013,Sants-MontjuÃ¯c,Sants - Badal,Female,715,604
+675,2013,Sants-MontjuÃ¯c,Sants,Female,1084,843
+676,2013,Les Corts,les Corts,Female,973,686
+677,2013,Les Corts,la Maternitat i Sant Ramon,Female,605,409
+678,2013,Les Corts,Pedralbes,Female,309,194
+679,2013,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Female,79,74
+680,2013,SarriÃ -Sant Gervasi,SarriÃ ,Female,527,393
+681,2013,SarriÃ -Sant Gervasi,les Tres Torres,Female,370,218
+682,2013,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Female,547,354
+683,2013,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Female,961,682
+684,2013,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Female,644,397
+685,2013,GrÃ cia,Vallcarca i els Penitents,Female,304,217
+686,2013,GrÃ cia,el Coll,Female,159,90
+687,2013,GrÃ cia,la Salut,Female,283,178
+688,2013,GrÃ cia,la Vila de GrÃ cia,Female,1527,859
+689,2013,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Female,710,485
+690,2013,Horta-GuinardÃ³,el Baix GuinardÃ³,Female,519,378
+691,2013,Horta-GuinardÃ³,Can BarÃ³,Female,175,136
+692,2013,Horta-GuinardÃ³,el GuinardÃ³,Female,706,544
+693,2013,Horta-GuinardÃ³,la Font d'en Fargues,Female,105,104
+694,2013,Horta-GuinardÃ³,el Carmel,Female,535,436
+695,2013,Horta-GuinardÃ³,la Teixonera,Female,203,164
+696,2013,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Female,161,104
+697,2013,Horta-GuinardÃ³,Montbau,Female,130,59
+698,2013,Horta-GuinardÃ³,la Vall d'Hebron,Female,86,63
+699,2013,Horta-GuinardÃ³,la Clota,Female,7,9
+700,2013,Horta-GuinardÃ³,Horta,Female,462,330
+701,2013,Nou Barris,Vilapicina i la Torre Llobeta,Female,421,391
+702,2013,Nou Barris,Porta,Female,464,373
+703,2013,Nou Barris,el TurÃ³ de la Peira,Female,381,310
+704,2013,Nou Barris,Can Peguera,Female,39,45
+705,2013,Nou Barris,la Guineueta,Female,217,191
+706,2013,Nou Barris,Canyelles,Female,68,73
+707,2013,Nou Barris,les Roquetes,Female,338,309
+708,2013,Nou Barris,Verdun,Female,285,224
+709,2013,Nou Barris,la Prosperitat,Female,469,394
+710,2013,Nou Barris,la Trinitat Nova,Female,164,126
+711,2013,Nou Barris,Torre BarÃ³,Female,64,60
+712,2013,Nou Barris,Ciutat Meridiana,Female,326,251
+713,2013,Nou Barris,Vallbona,Female,32,36
+714,2013,Sant Andreu,la Trinitat Vella,Female,290,247
+715,2013,Sant Andreu,BarÃ³ de Viver,Female,77,77
+716,2013,Sant Andreu,el Bon Pastor,Female,237,227
+717,2013,Sant Andreu,Sant Andreu,Female,830,716
+718,2013,Sant Andreu,la Sagrera,Female,545,470
+719,2013,Sant Andreu,el CongrÃ©s i els Indians,Female,258,206
+720,2013,Sant Andreu,Navas,Female,407,335
+721,2013,Sant MartÃ­,el Camp de l'Arpa del Clot,Female,856,651
+722,2013,Sant MartÃ­,el Clot,Female,539,409
+723,2013,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Female,404,227
+724,2013,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Female,189,116
+725,2013,Sant MartÃ­,el Poblenou,Female,691,507
+726,2013,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Female,261,206
+727,2013,Sant MartÃ­,el BesÃ²s i el Maresme,Female,568,455
+728,2013,Sant MartÃ­,ProvenÃ§als del Poblenou,Female,360,305
+729,2013,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Female,446,355
+730,2013,Sant MartÃ­,la Verneda i la Pau,Female,505,426

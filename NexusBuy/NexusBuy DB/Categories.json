@@ -1,0 +1,56 @@
+{
+    "_id" : ObjectId("64737b22cc2f5fb86850c8ab"),
+    "Name" : "Home Appliances"
+}
+{
+    "_id" : ObjectId("64776d9f0d5bde74cdb82d5f"),
+    "Name" : "NewBeauty"
+}
+{
+    "_id" : ObjectId("64776e970d5bde74cdb82d60"),
+    "Name" : "NewFurniture"
+}
+{
+    "_id" : ObjectId("64776f640d5bde74cdb82d64"),
+    "Name" : "NewSports"
+}
+{
+    "_id" : ObjectId("6477704f0d5bde74cdb82d66"),
+    "Name" : "NewToys"
+}
+{
+    "_id" : ObjectId("6477704f0d5bde74cdb82d67"),
+    "Name" : "NewSports"
+}
+{
+    "_id" : ObjectId("6477704f0d5bde74cdb82d69"),
+    "Name" : "Beauty"
+}
+{
+    "_id" : ObjectId("647a432ec69ace9c1c63fd3a"),
+    "Name" : "Furniture"
+}
+{
+    "_id" : ObjectId("647a4449c69ace9c1c63fd3b"),
+    "Name" : "Gadgets"
+}
+{
+    "_id" : ObjectId("647a47f0c69ace9c1c63fd3c"),
+    "Name" : "Electronics"
+}
+{
+    "_id" : ObjectId("647a47f0c69ace9c1c63fd3d"),
+    "Name" : "Clothing"
+}
+{
+    "_id" : ObjectId("647a47f0c69ace9c1c63fd3e"),
+    "Name" : "Home Appliances"
+}
+{
+    "_id" : ObjectId("647a47f0c69ace9c1c63fd3f"),
+    "Name" : "Books"
+}
+{
+    "_id" : ObjectId("647a47f0c69ace9c1c63fd40"),
+    "Name" : "Toys"
+}

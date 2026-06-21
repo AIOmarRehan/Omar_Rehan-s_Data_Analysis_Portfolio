@@ -1,0 +1,77 @@
+{
+    "_id" : ObjectId("64737b72cc2f5fb86850c8ae"),
+    "Name" : "T-Shirt",
+    "Description" : "Comfortable cotton t-shirt",
+    "Price" : 24.99,
+    "Quantity" : NumberInt(40),
+    "Category" : {
+        "CategoryID" : ObjectId("64737b22cc2f5fb86850c8aa"),
+        "Name" : "Clothing"
+    }
+}
+{
+    "_id" : ObjectId("64737b72cc2f5fb86850c8af"),
+    "Name" : "Smartphone",
+    "Description" : "High-performance smartphone",
+    "Price" : 96.78790000000001,
+    "Quantity" : NumberInt(30),
+    "Category" : {
+        "CategoryID" : ObjectId("64737b22cc2f5fb86850c8a9"),
+        "Name" : "Electronics"
+    }
+}
+{
+    "_id" : ObjectId("64737b72cc2f5fb86850c8b1"),
+    "Name" : "Cookware Set",
+    "Description" : "High-quality cookware set",
+    "Price" : 149.99,
+    "Quantity" : NumberInt(20),
+    "Category" : {
+        "CategoryID" : ObjectId("64737b22cc2f5fb86850c8ab"),
+        "Name" : "Home Appliances"
+    }
+}
+{
+    "_id" : ObjectId("64737b72cc2f5fb86850c8b2"),
+    "Name" : "Novel",
+    "Description" : "Bestselling novel",
+    "Price" : 9.99,
+    "Quantity" : NumberInt(100),
+    "Category" : {
+        "CategoryID" : ObjectId("64737b22cc2f5fb86850c8ac"),
+        "Name" : "Books"
+    }
+}
+{
+    "_id" : ObjectId("6478cf8a710d630e8ab4e11f"),
+    "Name" : "Shoes",
+    "Description" : "Stylish sneakers",
+    "Price" : 59.99,
+    "Quantity" : NumberInt(20),
+    "Category" : {
+        "CategoryID" : ObjectId("64737b22cc2f5fb86850c8aa"),
+        "Name" : "Clothing"
+    }
+}
+{
+    "_id" : ObjectId("6478d063710d630e8ab4e122"),
+    "Name" : "Keyboard",
+    "Description" : "Stylish sneakers",
+    "Price" : 5.489000000000001,
+    "Quantity" : NumberInt(20),
+    "Category" : {
+        "CategoryID" : ObjectId("64737b22cc2f5fb86850c8aa"),
+        "Name" : "Electronics"
+    }
+}
+{
+    "_id" : ObjectId("647a4a7fc69ace9c1c63fd41"),
+    "Name" : "Headphones",
+    "Description" : "High-quality headphones",
+    "Price" : 54.989000000000004,
+    "Quantity" : NumberInt(15),
+    "Category" : {
+        "CategoryID" : ObjectId("64737b22cc2f5fb86850c8a9"),
+        "Name" : "Electronics"
+    }
+}

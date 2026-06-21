@@ -1,0 +1,735 @@
+Birth_ID,Year,District Name,Neighborhood Name,Gender,Number
+001,2017,Ciutat Vella,el Raval,Boys,283
+002,2017,Ciutat Vella,el Barri GÃ²tic,Boys,56
+003,2017,Ciutat Vella,la Barceloneta,Boys,51
+004,2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Boys,90
+005,2017,Eixample,el Fort Pienc,Boys,117
+006,2017,Eixample,la Sagrada FamÃ­lia,Boys,207
+007,2017,Eixample,la Dreta de l'Eixample,Boys,185
+008,2017,Eixample,l'Antiga Esquerra de l'Eixample,Boys,176
+009,2017,Eixample,la Nova Esquerra de l'Eixample,Boys,218
+010,2017,Eixample,Sant Antoni,Boys,172
+011,2017,Sants-MontjuÃ¯c,el Poble Sec,Boys,156
+012,2017,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Boys,4
+013,2017,Sants-MontjuÃ¯c,la Marina de Port,Boys,119
+014,2017,Sants-MontjuÃ¯c,la Font de la Guatlla,Boys,42
+015,2017,Sants-MontjuÃ¯c,Hostafrancs,Boys,78
+016,2017,Sants-MontjuÃ¯c,la Bordeta,Boys,81
+017,2017,Sants-MontjuÃ¯c,Sants - Badal,Boys,108
+018,2017,Sants-MontjuÃ¯c,Sants,Boys,155
+019,2017,Les Corts,les Corts,Boys,199
+020,2017,Les Corts,la Maternitat i Sant Ramon,Boys,101
+021,2017,Les Corts,Pedralbes,Boys,32
+022,2017,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Boys,17
+023,2017,SarriÃ -Sant Gervasi,SarriÃ ,Boys,122
+024,2017,SarriÃ -Sant Gervasi,les Tres Torres,Boys,74
+025,2017,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Boys,104
+026,2017,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Boys,206
+027,2017,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Boys,127
+028,2017,GrÃ cia,Vallcarca i els Penitents,Boys,66
+029,2017,GrÃ cia,el Coll,Boys,26
+030,2017,GrÃ cia,la Salut,Boys,62
+031,2017,GrÃ cia,la Vila de GrÃ cia,Boys,241
+032,2017,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Boys,149
+033,2017,Horta-GuinardÃ³,el Baix GuinardÃ³,Boys,97
+034,2017,Horta-GuinardÃ³,Can BarÃ³,Boys,41
+035,2017,Horta-GuinardÃ³,el GuinardÃ³,Boys,148
+036,2017,Horta-GuinardÃ³,la Font d'en Fargues,Boys,26
+037,2017,Horta-GuinardÃ³,el Carmel,Boys,123
+038,2017,Horta-GuinardÃ³,la Teixonera,Boys,48
+039,2017,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Boys,28
+040,2017,Horta-GuinardÃ³,Montbau,Boys,26
+041,2017,Horta-GuinardÃ³,la Vall d'Hebron,Boys,12
+042,2017,Horta-GuinardÃ³,la Clota,Boys,8
+043,2017,Horta-GuinardÃ³,Horta,Boys,99
+044,2017,Nou Barris,Vilapicina i la Torre Llobeta,Boys,92
+045,2017,Nou Barris,Porta,Boys,104
+046,2017,Nou Barris,el TurÃ³ de la Peira,Boys,82
+047,2017,Nou Barris,Can Peguera,Boys,5
+048,2017,Nou Barris,la Guineueta,Boys,47
+049,2017,Nou Barris,Canyelles,Boys,35
+050,2017,Nou Barris,les Roquetes,Boys,88
+051,2017,Nou Barris,Verdun,Boys,50
+052,2017,Nou Barris,la Prosperitat,Boys,127
+053,2017,Nou Barris,la Trinitat Nova,Boys,38
+054,2017,Nou Barris,Torre BarÃ³,Boys,20
+055,2017,Nou Barris,Ciutat Meridiana,Boys,49
+056,2017,Nou Barris,Vallbona,Boys,5
+057,2017,Sant Andreu,la Trinitat Vella,Boys,65
+058,2017,Sant Andreu,BarÃ³ de Viver,Boys,11
+059,2017,Sant Andreu,el Bon Pastor,Boys,66
+060,2017,Sant Andreu,Sant Andreu,Boys,227
+061,2017,Sant Andreu,la Sagrera,Boys,132
+062,2017,Sant Andreu,el CongrÃ©s i els Indians,Boys,61
+063,2017,Sant Andreu,Navas,Boys,98
+064,2017,Sant MartÃ­,el Camp de l'Arpa del Clot,Boys,148
+065,2017,Sant MartÃ­,el Clot,Boys,125
+066,2017,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Boys,79
+067,2017,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Boys,34
+068,2017,Sant MartÃ­,el Poblenou,Boys,160
+069,2017,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Boys,103
+070,2017,Sant MartÃ­,el BesÃ²s i el Maresme,Boys,119
+071,2017,Sant MartÃ­,ProvenÃ§als del Poblenou,Boys,106
+072,2017,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Boys,100
+073,2017,Sant MartÃ­,la Verneda i la Pau,Boys,122
+074,2017,Ciutat Vella,el Raval,Girls,219
+075,2017,Ciutat Vella,el Barri GÃ²tic,Girls,53
+076,2017,Ciutat Vella,la Barceloneta,Girls,50
+077,2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Girls,90
+078,2017,Eixample,el Fort Pienc,Girls,114
+079,2017,Eixample,la Sagrada FamÃ­lia,Girls,183
+080,2017,Eixample,la Dreta de l'Eixample,Girls,159
+081,2017,Eixample,l'Antiga Esquerra de l'Eixample,Girls,164
+082,2017,Eixample,la Nova Esquerra de l'Eixample,Girls,242
+083,2017,Eixample,Sant Antoni,Girls,130
+084,2017,Sants-MontjuÃ¯c,el Poble Sec,Girls,174
+085,2017,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Girls,8
+086,2017,Sants-MontjuÃ¯c,la Marina de Port,Girls,117
+087,2017,Sants-MontjuÃ¯c,la Font de la Guatlla,Girls,30
+088,2017,Sants-MontjuÃ¯c,Hostafrancs,Girls,64
+089,2017,Sants-MontjuÃ¯c,la Bordeta,Girls,75
+090,2017,Sants-MontjuÃ¯c,Sants - Badal,Girls,96
+091,2017,Sants-MontjuÃ¯c,Sants,Girls,180
+092,2017,Les Corts,les Corts,Girls,175
+093,2017,Les Corts,la Maternitat i Sant Ramon,Girls,105
+094,2017,Les Corts,Pedralbes,Girls,32
+095,2017,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Girls,20
+096,2017,SarriÃ -Sant Gervasi,SarriÃ ,Girls,110
+097,2017,SarriÃ -Sant Gervasi,les Tres Torres,Girls,61
+098,2017,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Girls,95
+099,2017,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Girls,199
+100,2017,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Girls,138
+101,2017,GrÃ cia,Vallcarca i els Penitents,Girls,66
+102,2017,GrÃ cia,el Coll,Girls,25
+103,2017,GrÃ cia,la Salut,Girls,42
+104,2017,GrÃ cia,la Vila de GrÃ cia,Girls,236
+105,2017,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Girls,144
+106,2017,Horta-GuinardÃ³,el Baix GuinardÃ³,Girls,93
+107,2017,Horta-GuinardÃ³,Can BarÃ³,Girls,38
+108,2017,Horta-GuinardÃ³,el GuinardÃ³,Girls,170
+109,2017,Horta-GuinardÃ³,la Font d'en Fargues,Girls,33
+110,2017,Horta-GuinardÃ³,el Carmel,Girls,136
+111,2017,Horta-GuinardÃ³,la Teixonera,Girls,41
+112,2017,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Girls,27
+113,2017,Horta-GuinardÃ³,Montbau,Girls,17
+114,2017,Horta-GuinardÃ³,la Vall d'Hebron,Girls,20
+115,2017,Horta-GuinardÃ³,la Clota,Girls,5
+116,2017,Horta-GuinardÃ³,Horta,Girls,91
+117,2017,Nou Barris,Vilapicina i la Torre Llobeta,Girls,108
+118,2017,Nou Barris,Porta,Girls,117
+119,2017,Nou Barris,el TurÃ³ de la Peira,Girls,92
+120,2017,Nou Barris,Can Peguera,Girls,8
+121,2017,Nou Barris,la Guineueta,Girls,40
+122,2017,Nou Barris,Canyelles,Girls,14
+123,2017,Nou Barris,les Roquetes,Girls,83
+124,2017,Nou Barris,Verdun,Girls,48
+125,2017,Nou Barris,la Prosperitat,Girls,124
+126,2017,Nou Barris,la Trinitat Nova,Girls,28
+127,2017,Nou Barris,Torre BarÃ³,Girls,8
+128,2017,Nou Barris,Ciutat Meridiana,Girls,53
+129,2017,Nou Barris,Vallbona,Girls,11
+130,2017,Sant Andreu,la Trinitat Vella,Girls,55
+131,2017,Sant Andreu,BarÃ³ de Viver,Girls,13
+132,2017,Sant Andreu,el Bon Pastor,Girls,60
+133,2017,Sant Andreu,Sant Andreu,Girls,232
+134,2017,Sant Andreu,la Sagrera,Girls,100
+135,2017,Sant Andreu,el CongrÃ©s i els Indians,Girls,61
+136,2017,Sant Andreu,Navas,Girls,83
+137,2017,Sant MartÃ­,el Camp de l'Arpa del Clot,Girls,159
+138,2017,Sant MartÃ­,el Clot,Girls,82
+139,2017,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Girls,74
+140,2017,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Girls,29
+141,2017,Sant MartÃ­,el Poblenou,Girls,157
+142,2017,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Girls,58
+143,2017,Sant MartÃ­,el BesÃ²s i el Maresme,Girls,99
+144,2017,Sant MartÃ­,ProvenÃ§als del Poblenou,Girls,80
+145,2017,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Girls,98
+146,2017,Sant MartÃ­,la Verneda i la Pau,Girls,107
+147,2016,Ciutat Vella,el Raval,Boys,236
+148,2016,Ciutat Vella,el Barri GÃ²tic,Boys,53
+149,2016,Ciutat Vella,la Barceloneta,Boys,45
+150,2016,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Boys,92
+151,2016,Eixample,el Fort Pienc,Boys,132
+152,2016,Eixample,la Sagrada FamÃ­lia,Boys,192
+153,2016,Eixample,la Dreta de l'Eixample,Boys,177
+154,2016,Eixample,l'Antiga Esquerra de l'Eixample,Boys,159
+155,2016,Eixample,la Nova Esquerra de l'Eixample,Boys,226
+156,2016,Eixample,Sant Antoni,Boys,139
+157,2016,Sants-MontjuÃ¯c,el Poble Sec - Parc MontjuÃ¯c,Boys,190
+158,2016,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Boys,9
+159,2016,Sants-MontjuÃ¯c,la Marina de Port,Boys,122
+160,2016,Sants-MontjuÃ¯c,la Font de la Guatlla,Boys,47
+161,2016,Sants-MontjuÃ¯c,Hostafrancs,Boys,82
+162,2016,Sants-MontjuÃ¯c,la Bordeta,Boys,76
+163,2016,Sants-MontjuÃ¯c,Sants - Badal,Boys,86
+164,2016,Sants-MontjuÃ¯c,Sants,Boys,202
+165,2016,Les Corts,les Corts,Boys,182
+166,2016,Les Corts,la Maternitat i Sant Ramon,Boys,93
+167,2016,Les Corts,Pedralbes,Boys,35
+168,2016,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Boys,16
+169,2016,SarriÃ -Sant Gervasi,SarriÃ ,Boys,116
+170,2016,SarriÃ -Sant Gervasi,les Tres Torres,Boys,72
+171,2016,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Boys,105
+172,2016,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Boys,212
+173,2016,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Boys,144
+174,2016,GrÃ cia,Vallcarca i els Penitents,Boys,68
+175,2016,GrÃ cia,el Coll,Boys,37
+176,2016,GrÃ cia,la Salut,Boys,56
+177,2016,GrÃ cia,la Vila de GrÃ cia,Boys,251
+178,2016,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Boys,174
+179,2016,Horta-GuinardÃ³,el Baix GuinardÃ³,Boys,113
+180,2016,Horta-GuinardÃ³,Can BarÃ³,Boys,27
+181,2016,Horta-GuinardÃ³,el GuinardÃ³,Boys,151
+182,2016,Horta-GuinardÃ³,la Font d'en Fargues,Boys,37
+183,2016,Horta-GuinardÃ³,el Carmel,Boys,146
+184,2016,Horta-GuinardÃ³,la Teixonera,Boys,47
+185,2016,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Boys,22
+186,2016,Horta-GuinardÃ³,Montbau,Boys,22
+187,2016,Horta-GuinardÃ³,la Vall d'Hebron,Boys,26
+188,2016,Horta-GuinardÃ³,la Clota,Boys,1
+189,2016,Horta-GuinardÃ³,Horta,Boys,110
+190,2016,Nou Barris,Vilapicina i la Torre Llobeta,Boys,85
+191,2016,Nou Barris,Porta,Boys,95
+192,2016,Nou Barris,el TurÃ³ de la Peira,Boys,70
+193,2016,Nou Barris,Can Peguera,Boys,7
+194,2016,Nou Barris,la Guineueta,Boys,55
+195,2016,Nou Barris,Canyelles,Boys,25
+196,2016,Nou Barris,les Roquetes,Boys,77
+197,2016,Nou Barris,Verdun,Boys,52
+198,2016,Nou Barris,la Prosperitat,Boys,90
+199,2016,Nou Barris,la Trinitat Nova,Boys,35
+200,2016,Nou Barris,Torre BarÃ³,Boys,11
+201,2016,Nou Barris,Ciutat Meridiana,Boys,50
+202,2016,Nou Barris,Vallbona,Boys,4
+203,2016,Sant Andreu,la Trinitat Vella,Boys,59
+204,2016,Sant Andreu,BarÃ³ de Viver,Boys,10
+205,2016,Sant Andreu,el Bon Pastor,Boys,57
+206,2016,Sant Andreu,Sant Andreu,Boys,256
+207,2016,Sant Andreu,la Sagrera,Boys,148
+208,2016,Sant Andreu,el CongrÃ©s i els Indians,Boys,70
+209,2016,Sant Andreu,Navas,Boys,100
+210,2016,Sant MartÃ­,el Camp de l'Arpa del Clot,Boys,144
+211,2016,Sant MartÃ­,el Clot,Boys,95
+212,2016,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Boys,71
+213,2016,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Boys,48
+214,2016,Sant MartÃ­,el Poblenou,Boys,197
+215,2016,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Boys,91
+216,2016,Sant MartÃ­,el BesÃ²s i el Maresme,Boys,88
+217,2016,Sant MartÃ­,ProvenÃ§als del Poblenou,Boys,90
+218,2016,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Boys,96
+219,2016,Sant MartÃ­,la Verneda i la Pau,Boys,125
+220,2016,No consta,No consta,Boys,0
+221,2016,Ciutat Vella,el Raval,Girls,217
+222,2016,Ciutat Vella,el Barri GÃ²tic,Girls,45
+223,2016,Ciutat Vella,la Barceloneta,Girls,47
+224,2016,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Girls,80
+225,2016,Eixample,el Fort Pienc,Girls,123
+226,2016,Eixample,la Sagrada FamÃ­lia,Girls,208
+227,2016,Eixample,la Dreta de l'Eixample,Girls,187
+228,2016,Eixample,l'Antiga Esquerra de l'Eixample,Girls,165
+229,2016,Eixample,la Nova Esquerra de l'Eixample,Girls,224
+230,2016,Eixample,Sant Antoni,Girls,136
+231,2016,Sants-MontjuÃ¯c,el Poble Sec - Parc MontjuÃ¯c,Girls,183
+232,2016,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Girls,7
+233,2016,Sants-MontjuÃ¯c,la Marina de Port,Girls,113
+234,2016,Sants-MontjuÃ¯c,la Font de la Guatlla,Girls,37
+235,2016,Sants-MontjuÃ¯c,Hostafrancs,Girls,71
+236,2016,Sants-MontjuÃ¯c,la Bordeta,Girls,66
+237,2016,Sants-MontjuÃ¯c,Sants - Badal,Girls,78
+238,2016,Sants-MontjuÃ¯c,Sants,Girls,178
+239,2016,Les Corts,les Corts,Girls,181
+240,2016,Les Corts,la Maternitat i Sant Ramon,Girls,91
+241,2016,Les Corts,Pedralbes,Girls,49
+242,2016,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Girls,22
+243,2016,SarriÃ -Sant Gervasi,SarriÃ ,Girls,122
+244,2016,SarriÃ -Sant Gervasi,les Tres Torres,Girls,78
+245,2016,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Girls,98
+246,2016,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Girls,203
+247,2016,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Girls,138
+248,2016,GrÃ cia,Vallcarca i els Penitents,Girls,74
+249,2016,GrÃ cia,el Coll,Girls,39
+250,2016,GrÃ cia,la Salut,Girls,48
+251,2016,GrÃ cia,la Vila de GrÃ cia,Girls,232
+252,2016,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Girls,145
+253,2016,Horta-GuinardÃ³,el Baix GuinardÃ³,Girls,104
+254,2016,Horta-GuinardÃ³,Can BarÃ³,Girls,46
+255,2016,Horta-GuinardÃ³,el GuinardÃ³,Girls,173
+256,2016,Horta-GuinardÃ³,la Font d'en Fargues,Girls,37
+257,2016,Horta-GuinardÃ³,el Carmel,Girls,135
+258,2016,Horta-GuinardÃ³,la Teixonera,Girls,48
+259,2016,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Girls,25
+260,2016,Horta-GuinardÃ³,Montbau,Girls,15
+261,2016,Horta-GuinardÃ³,la Vall d'Hebron,Girls,15
+262,2016,Horta-GuinardÃ³,la Clota,Girls,1
+263,2016,Horta-GuinardÃ³,Horta,Girls,113
+264,2016,Nou Barris,Vilapicina i la Torre Llobeta,Girls,95
+265,2016,Nou Barris,Porta,Girls,122
+266,2016,Nou Barris,el TurÃ³ de la Peira,Girls,57
+267,2016,Nou Barris,Can Peguera,Girls,6
+268,2016,Nou Barris,la Guineueta,Girls,63
+269,2016,Nou Barris,Canyelles,Girls,21
+270,2016,Nou Barris,les Roquetes,Girls,82
+271,2016,Nou Barris,Verdun,Girls,62
+272,2016,Nou Barris,la Prosperitat,Girls,115
+273,2016,Nou Barris,la Trinitat Nova,Girls,33
+274,2016,Nou Barris,Torre BarÃ³,Girls,19
+275,2016,Nou Barris,Ciutat Meridiana,Girls,55
+276,2016,Nou Barris,Vallbona,Girls,10
+277,2016,Sant Andreu,la Trinitat Vella,Girls,49
+278,2016,Sant Andreu,BarÃ³ de Viver,Girls,17
+279,2016,Sant Andreu,el Bon Pastor,Girls,45
+280,2016,Sant Andreu,Sant Andreu,Girls,230
+281,2016,Sant Andreu,la Sagrera,Girls,108
+282,2016,Sant Andreu,el CongrÃ©s i els Indians,Girls,48
+283,2016,Sant Andreu,Navas,Girls,76
+284,2016,Sant MartÃ­,el Camp de l'Arpa del Clot,Girls,162
+285,2016,Sant MartÃ­,el Clot,Girls,95
+286,2016,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Girls,66
+287,2016,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Girls,41
+288,2016,Sant MartÃ­,el Poblenou,Girls,154
+289,2016,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Girls,97
+290,2016,Sant MartÃ­,el BesÃ²s i el Maresme,Girls,93
+291,2016,Sant MartÃ­,ProvenÃ§als del Poblenou,Girls,80
+292,2016,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Girls,90
+293,2016,Sant MartÃ­,la Verneda i la Pau,Girls,111
+294,2016,No consta,No consta,Girls,2
+295,2015,Ciutat Vella,el Raval,Boys,224
+296,2015,Ciutat Vella,el Barri GÃ²tic,Boys,48
+297,2015,Ciutat Vella,la Barceloneta,Boys,53
+298,2015,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Boys,90
+299,2015,Eixample,el Fort Pienc,Boys,141
+300,2015,Eixample,la Sagrada FamÃ­lia,Boys,196
+301,2015,Eixample,la Dreta de l'Eixample,Boys,209
+302,2015,Eixample,l'Antiga Esquerra de l'Eixample,Boys,184
+303,2015,Eixample,la Nova Esquerra de l'Eixample,Boys,234
+304,2015,Eixample,Sant Antoni,Boys,166
+305,2015,Sants-MontjuÃ¯c,el Poble Sec - Parc MontjuÃ¯c,Boys,185
+306,2015,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Boys,5
+307,2015,Sants-MontjuÃ¯c,la Marina de Port,Boys,122
+308,2015,Sants-MontjuÃ¯c,la Font de la Guatlla,Boys,36
+309,2015,Sants-MontjuÃ¯c,Hostafrancs,Boys,44
+310,2015,Sants-MontjuÃ¯c,la Bordeta,Boys,79
+311,2015,Sants-MontjuÃ¯c,Sants - Badal,Boys,93
+312,2015,Sants-MontjuÃ¯c,Sants,Boys,169
+313,2015,Les Corts,les Corts,Boys,211
+314,2015,Les Corts,la Maternitat i Sant Ramon,Boys,91
+315,2015,Les Corts,Pedralbes,Boys,29
+316,2015,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Boys,29
+317,2015,SarriÃ -Sant Gervasi,SarriÃ ,Boys,108
+318,2015,SarriÃ -Sant Gervasi,les Tres Torres,Boys,74
+319,2015,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Boys,112
+320,2015,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Boys,192
+321,2015,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Boys,143
+322,2015,GrÃ cia,Vallcarca i els Penitents,Boys,67
+323,2015,GrÃ cia,el Coll,Boys,36
+324,2015,GrÃ cia,la Salut,Boys,39
+325,2015,GrÃ cia,la Vila de GrÃ cia,Boys,234
+326,2015,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Boys,143
+327,2015,Horta-GuinardÃ³,el Baix GuinardÃ³,Boys,97
+328,2015,Horta-GuinardÃ³,Can BarÃ³,Boys,27
+329,2015,Horta-GuinardÃ³,el GuinardÃ³,Boys,172
+330,2015,Horta-GuinardÃ³,la Font d'en Fargues,Boys,43
+331,2015,Horta-GuinardÃ³,el Carmel,Boys,142
+332,2015,Horta-GuinardÃ³,la Teixonera,Boys,45
+333,2015,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Boys,18
+334,2015,Horta-GuinardÃ³,Montbau,Boys,17
+335,2015,Horta-GuinardÃ³,la Vall d'Hebron,Boys,24
+336,2015,Horta-GuinardÃ³,la Clota,Boys,6
+337,2015,Horta-GuinardÃ³,Horta,Boys,101
+338,2015,Nou Barris,Vilapicina i la Torre Llobeta,Boys,104
+339,2015,Nou Barris,Porta,Boys,102
+340,2015,Nou Barris,el TurÃ³ de la Peira,Boys,69
+341,2015,Nou Barris,Can Peguera,Boys,9
+342,2015,Nou Barris,la Guineueta,Boys,55
+343,2015,Nou Barris,Canyelles,Boys,30
+344,2015,Nou Barris,les Roquetes,Boys,73
+345,2015,Nou Barris,Verdun,Boys,56
+346,2015,Nou Barris,la Prosperitat,Boys,119
+347,2015,Nou Barris,la Trinitat Nova,Boys,45
+348,2015,Nou Barris,Torre BarÃ³,Boys,15
+349,2015,Nou Barris,Ciutat Meridiana,Boys,60
+350,2015,Nou Barris,Vallbona,Boys,5
+351,2015,Sant Andreu,la Trinitat Vella,Boys,48
+352,2015,Sant Andreu,BarÃ³ de Viver,Boys,14
+353,2015,Sant Andreu,el Bon Pastor,Boys,58
+354,2015,Sant Andreu,Sant Andreu,Boys,239
+355,2015,Sant Andreu,la Sagrera,Boys,133
+356,2015,Sant Andreu,el CongrÃ©s i els Indians,Boys,67
+357,2015,Sant Andreu,Navas,Boys,97
+358,2015,Sant MartÃ­,el Camp de l'Arpa del Clot,Boys,168
+359,2015,Sant MartÃ­,el Clot,Boys,119
+360,2015,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Boys,84
+361,2015,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Boys,46
+362,2015,Sant MartÃ­,el Poblenou,Boys,162
+363,2015,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Boys,97
+364,2015,Sant MartÃ­,el BesÃ²s i el Maresme,Boys,97
+365,2015,Sant MartÃ­,ProvenÃ§als del Poblenou,Boys,95
+366,2015,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Boys,100
+367,2015,Sant MartÃ­,la Verneda i la Pau,Boys,119
+368,2015,Ciutat Vella,el Raval,Girls,207
+369,2015,Ciutat Vella,el Barri GÃ²tic,Girls,52
+370,2015,Ciutat Vella,la Barceloneta,Girls,46
+371,2015,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Girls,76
+372,2015,Eixample,el Fort Pienc,Girls,98
+373,2015,Eixample,la Sagrada FamÃ­lia,Girls,197
+374,2015,Eixample,la Dreta de l'Eixample,Girls,186
+375,2015,Eixample,l'Antiga Esquerra de l'Eixample,Girls,152
+376,2015,Eixample,la Nova Esquerra de l'Eixample,Girls,213
+377,2015,Eixample,Sant Antoni,Girls,167
+378,2015,Sants-MontjuÃ¯c,el Poble Sec - Parc MontjuÃ¯c,Girls,170
+379,2015,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Girls,8
+380,2015,Sants-MontjuÃ¯c,la Marina de Port,Girls,122
+381,2015,Sants-MontjuÃ¯c,la Font de la Guatlla,Girls,27
+382,2015,Sants-MontjuÃ¯c,Hostafrancs,Girls,62
+383,2015,Sants-MontjuÃ¯c,la Bordeta,Girls,89
+384,2015,Sants-MontjuÃ¯c,Sants - Badal,Girls,90
+385,2015,Sants-MontjuÃ¯c,Sants,Girls,176
+386,2015,Les Corts,les Corts,Girls,175
+387,2015,Les Corts,la Maternitat i Sant Ramon,Girls,107
+388,2015,Les Corts,Pedralbes,Girls,48
+389,2015,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Girls,15
+390,2015,SarriÃ -Sant Gervasi,SarriÃ ,Girls,117
+391,2015,SarriÃ -Sant Gervasi,les Tres Torres,Girls,65
+392,2015,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Girls,98
+393,2015,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Girls,219
+394,2015,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Girls,141
+395,2015,GrÃ cia,Vallcarca i els Penitents,Girls,69
+396,2015,GrÃ cia,el Coll,Girls,22
+397,2015,GrÃ cia,la Salut,Girls,45
+398,2015,GrÃ cia,la Vila de GrÃ cia,Girls,256
+399,2015,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Girls,133
+400,2015,Horta-GuinardÃ³,el Baix GuinardÃ³,Girls,96
+401,2015,Horta-GuinardÃ³,Can BarÃ³,Girls,24
+402,2015,Horta-GuinardÃ³,el GuinardÃ³,Girls,150
+403,2015,Horta-GuinardÃ³,la Font d'en Fargues,Girls,34
+404,2015,Horta-GuinardÃ³,el Carmel,Girls,104
+405,2015,Horta-GuinardÃ³,la Teixonera,Girls,40
+406,2015,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Girls,29
+407,2015,Horta-GuinardÃ³,Montbau,Girls,13
+408,2015,Horta-GuinardÃ³,la Vall d'Hebron,Girls,28
+409,2015,Horta-GuinardÃ³,la Clota,Girls,3
+410,2015,Horta-GuinardÃ³,Horta,Girls,94
+411,2015,Nou Barris,Vilapicina i la Torre Llobeta,Girls,97
+412,2015,Nou Barris,Porta,Girls,92
+413,2015,Nou Barris,el TurÃ³ de la Peira,Girls,66
+414,2015,Nou Barris,Can Peguera,Girls,8
+415,2015,Nou Barris,la Guineueta,Girls,53
+416,2015,Nou Barris,Canyelles,Girls,21
+417,2015,Nou Barris,les Roquetes,Girls,86
+418,2015,Nou Barris,Verdun,Girls,61
+419,2015,Nou Barris,la Prosperitat,Girls,104
+420,2015,Nou Barris,la Trinitat Nova,Girls,25
+421,2015,Nou Barris,Torre BarÃ³,Girls,19
+422,2015,Nou Barris,Ciutat Meridiana,Girls,47
+423,2015,Nou Barris,Vallbona,Girls,7
+424,2015,Sant Andreu,la Trinitat Vella,Girls,48
+425,2015,Sant Andreu,BarÃ³ de Viver,Girls,16
+426,2015,Sant Andreu,el Bon Pastor,Girls,52
+427,2015,Sant Andreu,Sant Andreu,Girls,243
+428,2015,Sant Andreu,la Sagrera,Girls,93
+429,2015,Sant Andreu,el CongrÃ©s i els Indians,Girls,52
+430,2015,Sant Andreu,Navas,Girls,81
+431,2015,Sant MartÃ­,el Camp de l'Arpa del Clot,Girls,154
+432,2015,Sant MartÃ­,el Clot,Girls,91
+433,2015,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Girls,79
+434,2015,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Girls,48
+435,2015,Sant MartÃ­,el Poblenou,Girls,161
+436,2015,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Girls,83
+437,2015,Sant MartÃ­,el BesÃ²s i el Maresme,Girls,94
+438,2015,Sant MartÃ­,ProvenÃ§als del Poblenou,Girls,90
+439,2015,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Girls,107
+440,2015,Sant MartÃ­,la Verneda i la Pau,Girls,106
+441,2014,Ciutat Vella,el Raval,Boys,222
+442,2014,Ciutat Vella,el Barri GÃ²tic,Boys,36
+443,2014,Ciutat Vella,la Barceloneta,Boys,43
+444,2014,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Boys,94
+445,2014,Eixample,el Fort Pienc,Boys,135
+446,2014,Eixample,la Sagrada FamÃ­lia,Boys,224
+447,2014,Eixample,la Dreta de l'Eixample,Boys,194
+448,2014,Eixample,l'Antiga Esquerra de l'Eixample,Boys,157
+449,2014,Eixample,la Nova Esquerra de l'Eixample,Boys,223
+450,2014,Eixample,Sant Antoni,Boys,146
+451,2014,Sants-MontjuÃ¯c,el Poble Sec - Parc MontjuÃ¯c,Boys,212
+452,2014,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Boys,8
+453,2014,Sants-MontjuÃ¯c,la Marina de Port,Boys,116
+454,2014,Sants-MontjuÃ¯c,la Font de la Guatlla,Boys,36
+455,2014,Sants-MontjuÃ¯c,Hostafrancs,Boys,80
+456,2014,Sants-MontjuÃ¯c,la Bordeta,Boys,70
+457,2014,Sants-MontjuÃ¯c,Sants - Badal,Boys,88
+458,2014,Sants-MontjuÃ¯c,Sants,Boys,196
+459,2014,Les Corts,les Corts,Boys,166
+460,2014,Les Corts,la Maternitat i Sant Ramon,Boys,91
+461,2014,Les Corts,Pedralbes,Boys,40
+462,2014,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Boys,22
+463,2014,SarriÃ -Sant Gervasi,SarriÃ ,Boys,152
+464,2014,SarriÃ -Sant Gervasi,les Tres Torres,Boys,70
+465,2014,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Boys,112
+466,2014,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Boys,189
+467,2014,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Boys,115
+468,2014,GrÃ cia,Vallcarca i els Penitents,Boys,73
+469,2014,GrÃ cia,el Coll,Boys,46
+470,2014,GrÃ cia,la Salut,Boys,62
+471,2014,GrÃ cia,la Vila de GrÃ cia,Boys,226
+472,2014,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Boys,134
+473,2014,Horta-GuinardÃ³,el Baix GuinardÃ³,Boys,102
+474,2014,Horta-GuinardÃ³,Can BarÃ³,Boys,32
+475,2014,Horta-GuinardÃ³,el GuinardÃ³,Boys,153
+476,2014,Horta-GuinardÃ³,la Font d'en Fargues,Boys,33
+477,2014,Horta-GuinardÃ³,el Carmel,Boys,152
+478,2014,Horta-GuinardÃ³,la Teixonera,Boys,43
+479,2014,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Boys,21
+480,2014,Horta-GuinardÃ³,Montbau,Boys,13
+481,2014,Horta-GuinardÃ³,la Vall d'Hebron,Boys,18
+482,2014,Horta-GuinardÃ³,la Clota,Boys,5
+483,2014,Horta-GuinardÃ³,Horta,Boys,92
+484,2014,Nou Barris,Vilapicina i la Torre Llobeta,Boys,110
+485,2014,Nou Barris,Porta,Boys,109
+486,2014,Nou Barris,el TurÃ³ de la Peira,Boys,67
+487,2014,Nou Barris,Can Peguera,Boys,8
+488,2014,Nou Barris,la Guineueta,Boys,48
+489,2014,Nou Barris,Canyelles,Boys,29
+490,2014,Nou Barris,les Roquetes,Boys,66
+491,2014,Nou Barris,Verdun,Boys,50
+492,2014,Nou Barris,la Prosperitat,Boys,111
+493,2014,Nou Barris,la Trinitat Nova,Boys,29
+494,2014,Nou Barris,Torre BarÃ³,Boys,12
+495,2014,Nou Barris,Ciutat Meridiana,Boys,48
+496,2014,Nou Barris,Vallbona,Boys,12
+497,2014,Sant Andreu,la Trinitat Vella,Boys,73
+498,2014,Sant Andreu,BarÃ³ de Viver,Boys,12
+499,2014,Sant Andreu,el Bon Pastor,Boys,74
+500,2014,Sant Andreu,Sant Andreu,Boys,265
+501,2014,Sant Andreu,la Sagrera,Boys,141
+502,2014,Sant Andreu,el CongrÃ©s i els Indians,Boys,65
+503,2014,Sant Andreu,Navas,Boys,83
+504,2014,Sant MartÃ­,el Camp de l'Arpa del Clot,Boys,142
+505,2014,Sant MartÃ­,el Clot,Boys,86
+506,2014,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Boys,73
+507,2014,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Boys,53
+508,2014,Sant MartÃ­,el Poblenou,Boys,195
+509,2014,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Boys,87
+510,2014,Sant MartÃ­,el BesÃ²s i el Maresme,Boys,136
+511,2014,Sant MartÃ­,ProvenÃ§als del Poblenou,Boys,101
+512,2014,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Boys,103
+513,2014,Sant MartÃ­,la Verneda i la Pau,Boys,97
+514,2014,Ciutat Vella,el Raval,Girls,204
+515,2014,Ciutat Vella,el Barri GÃ²tic,Girls,61
+516,2014,Ciutat Vella,la Barceloneta,Girls,46
+517,2014,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Girls,73
+518,2014,Eixample,el Fort Pienc,Girls,123
+519,2014,Eixample,la Sagrada FamÃ­lia,Girls,209
+520,2014,Eixample,la Dreta de l'Eixample,Girls,158
+521,2014,Eixample,l'Antiga Esquerra de l'Eixample,Girls,173
+522,2014,Eixample,la Nova Esquerra de l'Eixample,Girls,224
+523,2014,Eixample,Sant Antoni,Girls,148
+524,2014,Sants-MontjuÃ¯c,el Poble Sec - Parc MontjuÃ¯c,Girls,146
+525,2014,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Girls,4
+526,2014,Sants-MontjuÃ¯c,la Marina de Port,Girls,116
+527,2014,Sants-MontjuÃ¯c,la Font de la Guatlla,Girls,37
+528,2014,Sants-MontjuÃ¯c,Hostafrancs,Girls,76
+529,2014,Sants-MontjuÃ¯c,la Bordeta,Girls,77
+530,2014,Sants-MontjuÃ¯c,Sants - Badal,Girls,93
+531,2014,Sants-MontjuÃ¯c,Sants,Girls,159
+532,2014,Les Corts,les Corts,Girls,173
+533,2014,Les Corts,la Maternitat i Sant Ramon,Girls,93
+534,2014,Les Corts,Pedralbes,Girls,39
+535,2014,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Girls,18
+536,2014,SarriÃ -Sant Gervasi,SarriÃ ,Girls,106
+537,2014,SarriÃ -Sant Gervasi,les Tres Torres,Girls,71
+538,2014,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Girls,108
+539,2014,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Girls,197
+540,2014,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Girls,112
+541,2014,GrÃ cia,Vallcarca i els Penitents,Girls,58
+542,2014,GrÃ cia,el Coll,Girls,32
+543,2014,GrÃ cia,la Salut,Girls,36
+544,2014,GrÃ cia,la Vila de GrÃ cia,Girls,227
+545,2014,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Girls,142
+546,2014,Horta-GuinardÃ³,el Baix GuinardÃ³,Girls,94
+547,2014,Horta-GuinardÃ³,Can BarÃ³,Girls,39
+548,2014,Horta-GuinardÃ³,el GuinardÃ³,Girls,144
+549,2014,Horta-GuinardÃ³,la Font d'en Fargues,Girls,38
+550,2014,Horta-GuinardÃ³,el Carmel,Girls,119
+551,2014,Horta-GuinardÃ³,la Teixonera,Girls,41
+552,2014,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Girls,18
+553,2014,Horta-GuinardÃ³,Montbau,Girls,8
+554,2014,Horta-GuinardÃ³,la Vall d'Hebron,Girls,17
+555,2014,Horta-GuinardÃ³,la Clota,Girls,5
+556,2014,Horta-GuinardÃ³,Horta,Girls,95
+557,2014,Nou Barris,Vilapicina i la Torre Llobeta,Girls,67
+558,2014,Nou Barris,Porta,Girls,91
+559,2014,Nou Barris,el TurÃ³ de la Peira,Girls,77
+560,2014,Nou Barris,Can Peguera,Girls,13
+561,2014,Nou Barris,la Guineueta,Girls,44
+562,2014,Nou Barris,Canyelles,Girls,17
+563,2014,Nou Barris,les Roquetes,Girls,65
+564,2014,Nou Barris,Verdun,Girls,57
+565,2014,Nou Barris,la Prosperitat,Girls,108
+566,2014,Nou Barris,la Trinitat Nova,Girls,37
+567,2014,Nou Barris,Torre BarÃ³,Girls,10
+568,2014,Nou Barris,Ciutat Meridiana,Girls,72
+569,2014,Nou Barris,Vallbona,Girls,8
+570,2014,Sant Andreu,la Trinitat Vella,Girls,54
+571,2014,Sant Andreu,BarÃ³ de Viver,Girls,8
+572,2014,Sant Andreu,el Bon Pastor,Girls,65
+573,2014,Sant Andreu,Sant Andreu,Girls,231
+574,2014,Sant Andreu,la Sagrera,Girls,118
+575,2014,Sant Andreu,el CongrÃ©s i els Indians,Girls,54
+576,2014,Sant Andreu,Navas,Girls,89
+577,2014,Sant MartÃ­,el Camp de l'Arpa del Clot,Girls,182
+578,2014,Sant MartÃ­,el Clot,Girls,104
+579,2014,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Girls,62
+580,2014,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Girls,37
+581,2014,Sant MartÃ­,el Poblenou,Girls,157
+582,2014,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Girls,87
+583,2014,Sant MartÃ­,el BesÃ²s i el Maresme,Girls,87
+584,2014,Sant MartÃ­,ProvenÃ§als del Poblenou,Girls,109
+585,2014,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Girls,98
+586,2014,Sant MartÃ­,la Verneda i la Pau,Girls,104
+587,2013,Ciutat Vella,el Raval,Boys,210
+588,2013,Ciutat Vella,el Barri GÃ²tic,Boys,49
+589,2013,Ciutat Vella,la Barceloneta,Boys,51
+590,2013,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Boys,93
+591,2013,Eixample,el Fort Pienc,Boys,125
+592,2013,Eixample,la Sagrada FamÃ­lia,Boys,164
+593,2013,Eixample,la Dreta de l'Eixample,Boys,192
+594,2013,Eixample,l'Antiga Esquerra de l'Eixample,Boys,170
+595,2013,Eixample,la Nova Esquerra de l'Eixample,Boys,192
+596,2013,Eixample,Sant Antoni,Boys,155
+597,2013,Sants-MontjuÃ¯c,el Poble Sec - Parc MontjuÃ¯c,Boys,198
+598,2013,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Boys,7
+599,2013,Sants-MontjuÃ¯c,la Marina de Port,Boys,124
+600,2013,Sants-MontjuÃ¯c,la Font de la Guatlla,Boys,38
+601,2013,Sants-MontjuÃ¯c,Hostafrancs,Boys,80
+602,2013,Sants-MontjuÃ¯c,la Bordeta,Boys,60
+603,2013,Sants-MontjuÃ¯c,Sants - Badal,Boys,86
+604,2013,Sants-MontjuÃ¯c,Sants,Boys,181
+605,2013,Les Corts,les Corts,Boys,165
+606,2013,Les Corts,la Maternitat i Sant Ramon,Boys,94
+607,2013,Les Corts,Pedralbes,Boys,34
+608,2013,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Boys,29
+609,2013,SarriÃ -Sant Gervasi,SarriÃ ,Boys,139
+610,2013,SarriÃ -Sant Gervasi,les Tres Torres,Boys,75
+611,2013,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Boys,100
+612,2013,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Boys,186
+613,2013,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Boys,150
+614,2013,GrÃ cia,Vallcarca i els Penitents,Boys,64
+615,2013,GrÃ cia,el Coll,Boys,29
+616,2013,GrÃ cia,la Salut,Boys,59
+617,2013,GrÃ cia,la Vila de GrÃ cia,Boys,244
+618,2013,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Boys,146
+619,2013,Horta-GuinardÃ³,el Baix GuinardÃ³,Boys,101
+620,2013,Horta-GuinardÃ³,Can BarÃ³,Boys,28
+621,2013,Horta-GuinardÃ³,el GuinardÃ³,Boys,142
+622,2013,Horta-GuinardÃ³,la Font d'en Fargues,Boys,30
+623,2013,Horta-GuinardÃ³,el Carmel,Boys,143
+624,2013,Horta-GuinardÃ³,la Teixonera,Boys,49
+625,2013,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Boys,28
+626,2013,Horta-GuinardÃ³,Montbau,Boys,6
+627,2013,Horta-GuinardÃ³,la Vall d'Hebron,Boys,25
+628,2013,Horta-GuinardÃ³,la Clota,Boys,8
+629,2013,Horta-GuinardÃ³,Horta,Boys,105
+630,2013,Nou Barris,Vilapicina i la Torre Llobeta,Boys,101
+631,2013,Nou Barris,Porta,Boys,112
+632,2013,Nou Barris,el TurÃ³ de la Peira,Boys,77
+633,2013,Nou Barris,Can Peguera,Boys,6
+634,2013,Nou Barris,la Guineueta,Boys,50
+635,2013,Nou Barris,Canyelles,Boys,27
+636,2013,Nou Barris,les Roquetes,Boys,80
+637,2013,Nou Barris,Verdun,Boys,46
+638,2013,Nou Barris,la Prosperitat,Boys,101
+639,2013,Nou Barris,la Trinitat Nova,Boys,30
+640,2013,Nou Barris,Torre BarÃ³,Boys,14
+641,2013,Nou Barris,Ciutat Meridiana,Boys,62
+642,2013,Nou Barris,Vallbona,Boys,7
+643,2013,Sant Andreu,la Trinitat Vella,Boys,65
+644,2013,Sant Andreu,BarÃ³ de Viver,Boys,5
+645,2013,Sant Andreu,el Bon Pastor,Boys,61
+646,2013,Sant Andreu,Sant Andreu,Boys,257
+647,2013,Sant Andreu,la Sagrera,Boys,132
+648,2013,Sant Andreu,el CongrÃ©s i els Indians,Boys,69
+649,2013,Sant Andreu,Navas,Boys,85
+650,2013,Sant MartÃ­,el Camp de l'Arpa del Clot,Boys,166
+651,2013,Sant MartÃ­,el Clot,Boys,97
+652,2013,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Boys,67
+653,2013,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Boys,42
+654,2013,Sant MartÃ­,el Poblenou,Boys,170
+655,2013,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Boys,105
+656,2013,Sant MartÃ­,el BesÃ²s i el Maresme,Boys,102
+657,2013,Sant MartÃ­,ProvenÃ§als del Poblenou,Boys,119
+658,2013,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Boys,114
+659,2013,Sant MartÃ­,la Verneda i la Pau,Boys,108
+660,2013,No consta,No consta,Boys,7
+661,2013,Ciutat Vella,el Raval,Girls,213
+662,2013,Ciutat Vella,el Barri GÃ²tic,Girls,45
+663,2013,Ciutat Vella,la Barceloneta,Girls,54
+664,2013,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Girls,76
+665,2013,Eixample,el Fort Pienc,Girls,130
+666,2013,Eixample,la Sagrada FamÃ­lia,Girls,179
+667,2013,Eixample,la Dreta de l'Eixample,Girls,177
+668,2013,Eixample,l'Antiga Esquerra de l'Eixample,Girls,159
+669,2013,Eixample,la Nova Esquerra de l'Eixample,Girls,186
+670,2013,Eixample,Sant Antoni,Girls,136
+671,2013,Sants-MontjuÃ¯c,el Poble Sec - Parc MontjuÃ¯c,Girls,147
+672,2013,Sants-MontjuÃ¯c,la Marina del Prat Vermell,Girls,3
+673,2013,Sants-MontjuÃ¯c,la Marina de Port,Girls,125
+674,2013,Sants-MontjuÃ¯c,la Font de la Guatlla,Girls,44
+675,2013,Sants-MontjuÃ¯c,Hostafrancs,Girls,75
+676,2013,Sants-MontjuÃ¯c,la Bordeta,Girls,53
+677,2013,Sants-MontjuÃ¯c,Sants - Badal,Girls,100
+678,2013,Sants-MontjuÃ¯c,Sants,Girls,153
+679,2013,Les Corts,les Corts,Girls,186
+680,2013,Les Corts,la Maternitat i Sant Ramon,Girls,79
+681,2013,Les Corts,Pedralbes,Girls,31
+682,2013,SarriÃ -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Girls,18
+683,2013,SarriÃ -Sant Gervasi,SarriÃ ,Girls,117
+684,2013,SarriÃ -Sant Gervasi,les Tres Torres,Girls,70
+685,2013,SarriÃ -Sant Gervasi,Sant Gervasi - la Bonanova,Girls,92
+686,2013,SarriÃ -Sant Gervasi,Sant Gervasi - Galvany,Girls,197
+687,2013,SarriÃ -Sant Gervasi,el Putxet i el FarrÃ³,Girls,133
+688,2013,GrÃ cia,Vallcarca i els Penitents,Girls,63
+689,2013,GrÃ cia,el Coll,Girls,28
+690,2013,GrÃ cia,la Salut,Girls,37
+691,2013,GrÃ cia,la Vila de GrÃ cia,Girls,219
+692,2013,GrÃ cia,el Camp d'en Grassot i GrÃ cia Nova,Girls,113
+693,2013,Horta-GuinardÃ³,el Baix GuinardÃ³,Girls,96
+694,2013,Horta-GuinardÃ³,Can BarÃ³,Girls,42
+695,2013,Horta-GuinardÃ³,el GuinardÃ³,Girls,170
+696,2013,Horta-GuinardÃ³,la Font d'en Fargues,Girls,32
+697,2013,Horta-GuinardÃ³,el Carmel,Girls,126
+698,2013,Horta-GuinardÃ³,la Teixonera,Girls,52
+699,2013,Horta-GuinardÃ³,Sant GenÃ­s dels Agudells,Girls,27
+700,2013,Horta-GuinardÃ³,Montbau,Girls,17
+701,2013,Horta-GuinardÃ³,la Vall d'Hebron,Girls,15
+702,2013,Horta-GuinardÃ³,la Clota,Girls,1
+703,2013,Horta-GuinardÃ³,Horta,Girls,102
+704,2013,Nou Barris,Vilapicina i la Torre Llobeta,Girls,96
+705,2013,Nou Barris,Porta,Girls,121
+706,2013,Nou Barris,el TurÃ³ de la Peira,Girls,66
+707,2013,Nou Barris,Can Peguera,Girls,8
+708,2013,Nou Barris,la Guineueta,Girls,53
+709,2013,Nou Barris,Canyelles,Girls,16
+710,2013,Nou Barris,les Roquetes,Girls,75
+711,2013,Nou Barris,Verdun,Girls,57
+712,2013,Nou Barris,la Prosperitat,Girls,101
+713,2013,Nou Barris,la Trinitat Nova,Girls,25
+714,2013,Nou Barris,Torre BarÃ³,Girls,19
+715,2013,Nou Barris,Ciutat Meridiana,Girls,37
+716,2013,Nou Barris,Vallbona,Girls,10
+717,2013,Sant Andreu,la Trinitat Vella,Girls,68
+718,2013,Sant Andreu,BarÃ³ de Viver,Girls,13
+719,2013,Sant Andreu,el Bon Pastor,Girls,63
+720,2013,Sant Andreu,Sant Andreu,Girls,233
+721,2013,Sant Andreu,la Sagrera,Girls,125
+722,2013,Sant Andreu,el CongrÃ©s i els Indians,Girls,56
+723,2013,Sant Andreu,Navas,Girls,81
+724,2013,Sant MartÃ­,el Camp de l'Arpa del Clot,Girls,155
+725,2013,Sant MartÃ­,el Clot,Girls,96
+726,2013,Sant MartÃ­,el Parc i la Llacuna del Poblenou,Girls,64
+727,2013,Sant MartÃ­,la Vila OlÃ­mpica del Poblenou,Girls,54
+728,2013,Sant MartÃ­,el Poblenou,Girls,160
+729,2013,Sant MartÃ­,Diagonal Mar i el Front MarÃ­tim del Poblenou,Girls,97
+730,2013,Sant MartÃ­,el BesÃ²s i el Maresme,Girls,93
+731,2013,Sant MartÃ­,ProvenÃ§als del Poblenou,Girls,95
+732,2013,Sant MartÃ­,Sant MartÃ­ de ProvenÃ§als,Girls,97
+733,2013,Sant MartÃ­,la Verneda i la Pau,Girls,94
+734,2013,No consta,No consta,Girls,2

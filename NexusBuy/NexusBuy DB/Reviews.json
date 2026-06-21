@@ -1,0 +1,90 @@
+{
+    "_id" : ObjectId("647383d9cc2f5fb86850c8c3"),
+    "Rating" : NumberInt(5),
+    "Comment" : "Excellent smartphone!",
+    "ReviewDate" : ISODate("2023-05-02T00:00:00.000+0000"),
+    "Customer" : {
+        "CustomerID" : ObjectId("64737b1fcc2f5fb86850c8a4"),
+        "Name" : "John Doe",
+        "Email" : "johndoe@example.com"
+    },
+    "Product" : {
+        "ProductID" : ObjectId("64737b72cc2f5fb86850c8af"),
+        "Name" : "Smartphone",
+        "Description" : "High-performance smartphone",
+        "Price" : 79.99,
+        "Quantity" : NumberInt(30)
+    }
+}
+{
+    "_id" : ObjectId("647383d9cc2f5fb86850c8c4"),
+    "Rating" : 3.5,
+    "Comment" : "Decent laptop, but a bit pricey.",
+    "ReviewDate" : ISODate("2023-05-03T00:00:00.000+0000"),
+    "Customer" : {
+        "CustomerID" : ObjectId("64737b1fcc2f5fb86850c8a5"),
+        "Name" : "Jane Smith",
+        "Email" : "janesmith@example.com"
+    },
+    "Product" : {
+        "ProductID" : ObjectId("64737b72cc2f5fb86850c8b0"),
+        "Name" : "Laptop",
+        "Description" : "Powerful and portable laptop",
+        "Price" : 999.99,
+        "Quantity" : NumberInt(10)
+    }
+}
+{
+    "_id" : ObjectId("647383d9cc2f5fb86850c8c5"),
+    "Rating" : NumberInt(4),
+    "Comment" : "Love this T-shirt!",
+    "ReviewDate" : ISODate("2023-05-04T00:00:00.000+0000"),
+    "Customer" : {
+        "CustomerID" : ObjectId("64737b1fcc2f5fb86850c8a8"),
+        "Name" : "David Brown",
+        "Email" : "davidbrown@example.com"
+    },
+    "Product" : {
+        "ProductID" : ObjectId("64737b72cc2f5fb86850c8ae"),
+        "Name" : "T-Shirt",
+        "Description" : "Comfortable cotton t-shirt",
+        "Price" : 19.99,
+        "Quantity" : NumberInt(50)
+    }
+}
+{
+    "_id" : ObjectId("647383d9cc2f5fb86850c8c6"),
+    "Rating" : 4.5,
+    "Comment" : "Great novel, couldn't put it down!",
+    "ReviewDate" : ISODate("2023-05-05T00:00:00.000+0000"),
+    "Customer" : {
+        "CustomerID" : ObjectId("64737b1fcc2f5fb86850c8a7"),
+        "Name" : "Emily Williams",
+        "Email" : "emilywilliams@example.com"
+    },
+    "Product" : {
+        "ProductID" : ObjectId("64737b72cc2f5fb86850c8b2"),
+        "Name" : "Novel",
+        "Description" : "Bestselling novel",
+        "Price" : 9.99,
+        "Quantity" : NumberInt(100)
+    }
+}
+{
+    "_id" : ObjectId("647adc86f496b5ff3745a57e"),
+    "Rating" : 4.5,
+    "Comment" : "This T-Shirt also is nice!",
+    "ReviewDate" : ISODate("2023-05-01T00:00:00.000+0000"),
+    "Customer" : {
+        "CustomerID" : ObjectId("64737b1fcc2f5fb86850c8a4"),
+        "Name" : "John Doe",
+        "Email" : "johndoe@example.com"
+    },
+    "Product" : {
+        "ProductID" : ObjectId("64737b72cc2f5fb86850c8ae"),
+        "Name" : "T-Shirt",
+        "Description" : "Comfortable cotton t-shirt",
+        "Price" : 19.99,
+        "Quantity" : NumberInt(50)
+    }
+}

@@ -1,0 +1,54 @@
+GoalK_ID,serial,player_name,club,position,saved,conceded,saved_penalties,cleansheets,punches made,match_played
+001,1,Courtois,Real Madrid,Goalkeeper,61,14,1,5,4,13
+002,2,Rulli,Villarreal,Goalkeeper,41,16,0,3,12,12
+003,3,Vlachodimos,Benfica,Goalkeeper,38,17,1,5,5,10
+004,4,Athanasiadis,Sheriff,Goalkeeper,29,8,0,1,2,5
+005,5,Mignolet,Club Brugge,Goalkeeper,28,20,0,0,1,6
+006,6,Oblak,Atlético,Goalkeeper,26,10,0,3,2,10
+007,7,Musso,Atalanta,Goalkeeper,21,13,0,1,1,6
+008,8,Ersin Destanoğlu,Beşiktaş,Goalkeeper,20,17,0,0,0,5
+009,9,De Gea,Man. United,Goalkeeper,19,9,0,1,0,7
+010,9,Dahlin,Malmö,Goalkeeper,19,8,1,0,3,4
+011,11,Diogo Costa,Porto,Goalkeeper,18,11,0,2,2,6
+012,11,Trubin,Shakhtar Donetsk,Goalkeeper,18,9,0,0,0,3
+013,11,Casteels,Wolfsburg,Goalkeeper,18,8,0,1,2,5
+014,11,Donnarumma,Paris,Goalkeeper,18,6,1,2,9,5
+015,15,Adán,Sporting CP,Goalkeeper,17,13,0,2,8,7
+016,16,Köhn,Salzburg,Goalkeeper,16,14,0,1,3,8
+017,16,Ter Stegen,Barcelona,Goalkeeper,16,9,0,3,2,6
+018,18,Alisson Becker,Liverpool,Goalkeeper,15,14,0,4,3,13
+019,19,Ederson,Man. City,Goalkeeper,14,14,0,4,1,11
+020,19,Kobel,Dortmund,Goalkeeper,14,11,1,2,1,6
+021,19,Szczęsny,Juventus,Goalkeeper,14,10,0,3,3,7
+022,19,Maignan,Milan,Goalkeeper,14,7,1,0,1,3
+023,19,Neuer,Bayern,Goalkeeper,14,6,0,4,1,9
+024,19,Bounou,Sevilla,Goalkeeper,14,5,0,2,1,6
+025,25,Bushchan,Dynamo Kyiv,Goalkeeper,13,11,0,0,4,5
+026,25,Pasveer,Ajax,Goalkeeper,13,6,0,2,2,6
+027,25,Diawara,Malmö,Goalkeeper,13,6,0,0,1,3
+028,25,Grbić,LOSC,Goalkeeper,13,4,0,3,1,6
+029,29,Handanovič,Inter,Goalkeeper,12,7,0,3,5,8
+030,29,Kritsyuk,Zenit,Goalkeeper,12,6,0,1,10,4
+031,29,Faivre,Young Boys,Goalkeeper,12,6,0,0,1,3
+032,32,Gulácsi,Leipzig,Goalkeeper,11,14,0,0,0,5
+033,32,Navas,Paris,Goalkeeper,11,5,0,0,3,3
+034,34,Mendy,Chelsea,Goalkeeper,9,7,0,5,2,9
+035,34,Von Ballmoos,Young Boys,Goalkeeper,9,6,0,0,1,3
+036,36,Tătăruşanu,Milan,Goalkeeper,8,2,0,1,2,3
+037,37,Celeadnic,Sheriff,Goalkeeper,6,3,0,0,1,1
+038,38,M. Kerzhakov,Zenit,Goalkeeper,5,4,0,0,0,2
+039,38,Pyatov,Shakhtar Donetsk,Goalkeeper,5,2,0,2,4,3
+040,38,Pervan,Wolfsburg,Goalkeeper,5,2,0,0,0,1
+041,41,Leo Jardim,LOSC,Goalkeeper,4,4,0,0,0,2
+042,41,Kepa,Chelsea,Goalkeeper,4,3,0,0,0,1
+043,41,Günok,Beşiktaş,Goalkeeper,4,2,0,0,0,1
+044,41,Ulreich,Bayern,Goalkeeper,4,1,0,0,2,1
+045,41,Boyko,Dynamo Kyiv,Goalkeeper,4,0,0,1,2,1
+046,46,João Virginia,Sporting CP,Goalkeeper,3,4,0,0,0,1
+047,46,Steffen,Man. City,Goalkeeper,3,2,0,0,1,1
+048,46,Henderson,Man. United,Goalkeeper,3,1,0,0,1,1
+049,46,Martínez,Leipzig,Goalkeeper,3,0,0,1,0,1
+050,50,Onana,Ajax,Goalkeeper,2,2,0,0,0,2
+051,50,Perin,Juventus,Goalkeeper,2,0,0,1,0,1
+052,52,Shevchenko,Shakhtar Donetsk,Goalkeeper,1,1,0,0,0,1
+053,52,Carson,Man. City,Goalkeeper,1,0,0,1,0,1

@@ -1,0 +1,177 @@
+Attack_ID,serial,player_name,club,position,assists,corner_taken,offsides,dribbles,match_played
+001,1,Bruno Fernandes,Man. United,Midfielder,7,10,2,7,7
+002,2,Vinícius Júnior,Real Madrid,Forward,6,3,4,83,13
+003,2,Sané,Bayern,Midfielder,6,3,3,32,10
+004,4,Antony,Ajax,Forward,5,3,4,28,7
+005,5,Alexander-Arnold,Liverpool,Defender,4,36,0,9,9
+006,5,De Bruyne,Man. City,Midfielder,4,18,0,14,10
+007,5,Modrić,Real Madrid,Midfielder,4,10,0,8,13
+008,5,João Mário,Benfica,Midfielder,4,8,0,7,8
+009,5,Mbappé,Paris,Forward,4,4,8,43,8
+010,5,Gerard Moreno,Villarreal,Forward,4,0,3,9,7
+011,5,Capoue,Villarreal,Midfielder,4,0,0,17,12
+012,12,Parejo,Villarreal,Midfielder,3,36,0,4,12
+013,12,Grimaldo,Benfica,Defender,3,11,1,10,10
+014,12,Müller,Bayern,Forward,3,10,8,2,10
+015,12,Arnold,Wolfsburg,Midfielder,3,10,0,1,6
+016,12,Angeliño,Leipzig,Defender,3,8,0,4,5
+017,12,Coman,Bayern,Forward,3,4,4,59,9
+018,12,Bernardo Silva,Man. City,Midfielder,3,2,3,18,11
+019,12,Bellingham,Dortmund,Midfielder,3,1,1,24,6
+020,12,Zapata,Atalanta,Forward,3,0,7,10,6
+021,12,Lewandowski,Bayern,Forward,3,0,7,1,10
+022,12,João Cancelo,Man. City,Defender,3,0,2,26,9
+023,12,Cristiano,Sheriff,Defender,3,0,1,7,6
+024,24,Mahrez,Man. City,Midfielder,2,30,5,28,12
+025,24,Robertson,Liverpool,Defender,2,27,1,9,10
+026,24,Ziyech,Chelsea,Midfielder,2,23,0,12,9
+027,24,Gündoğan,Man. City,Midfielder,2,16,1,3,10
+028,24,Tsimikas,Liverpool,Defender,2,16,0,4,5
+029,24,Foden,Man. City,Midfielder,2,13,6,12,11
+030,24,Pjanic,Beşiktaş,Midfielder,2,9,0,4,3
+031,24,Forsberg,Leipzig,Forward,2,9,0,3,6
+032,24,Bernardeschi,Juventus,Midfielder,2,7,1,7,5
+033,24,Dahoud,Dortmund,Midfielder,2,7,1,3,4
+034,24,Pedro Gonçalves,Sporting CP,Midfielder,2,7,0,10,5
+035,24,Mount,Chelsea,Midfielder,2,7,0,6,7
+036,24,Douglas Santos,Zenit,Defender,2,6,1,3,5
+037,24,Rakitskyy,Zenit,Defender,2,6,0,4,6
+038,24,Tadić,Ajax,Forward,2,5,5,13,7
+039,24,Asensio,Real Madrid,Forward,2,5,0,1,8
+040,24,Aaronson,Salzburg,Midfielder,2,4,5,9,8
+041,24,Danjuma,Villarreal,Midfielder,2,3,8,31,11
+042,24,Shaw,Man. United,Defender,2,3,1,1,5
+043,24,Gnabry,Bayern,Forward,2,3,0,12,8
+044,24,Griezmann,Atlético,Forward,2,2,1,8,9
+045,24,Renan Lodi,Atlético,Defender,2,1,5,9,10
+046,24,Rodrygo,Real Madrid,Forward,2,1,1,20,11
+047,24,Hudson-Odoi,Chelsea,Midfielder,2,1,1,15,5
+048,24,Jorginho,Chelsea,Midfielder,2,1,0,1,8
+049,24,André Silva,Leipzig,Forward,2,0,9,5,6
+050,24,Sterling,Man. City,Forward,2,0,6,14,12
+051,24,Salah,Liverpool,Forward,2,0,5,49,13
+052,24,Ikoné,LOSC,Midfielder,2,0,1,15,5
+053,24,Werner,Chelsea,Forward,2,0,1,10,5
+054,24,Jones,Liverpool,Midfielder,2,0,1,0,4
+055,24,Matheus Nunes,Sporting CP,Midfielder,2,0,0,21,6
+056,24,Davies,Bayern,Midfielder,2,0,0,18,7
+057,24,Mazraoui,Ajax,Defender,2,0,0,13,8
+058,24,Mendy,Real Madrid,Defender,2,0,0,8,10
+059,24,Keïta,Liverpool,Midfielder,2,0,0,6,10
+060,24,Henderson,Liverpool,Midfielder,2,0,0,2,12
+061,24,Vidal,Inter,Midfielder,2,0,0,2,7
+062,24,Ricardo Esgaio,Sporting CP,Defender,2,0,0,1,8
+063,24,Fernandinho,Man. City,Midfielder,2,0,0,1,8
+064,64,Seiwald,Salzburg,Midfielder,1,18,1,5,8
+065,64,Berghuis,Ajax,Forward,1,15,2,3,8
+066,64,Gravenberch,Ajax,Midfielder,1,15,1,18,8
+067,64,Lang,Club Brugge,Forward,1,12,5,17,6
+068,64,Aebischer,Young Boys,Midfielder,1,11,0,6,6
+069,64,Tsygankov,Dynamo Kyiv,Midfielder,1,10,0,8,6
+070,64,Oxlade-Chamberlain,Liverpool,Midfielder,1,9,0,6,6
+071,64,S. Thill,Sheriff,Midfielder,1,9,0,1,6
+072,64,Di María,Paris,Forward,1,8,1,3,5
+073,64,Koopmeiners,Atalanta,Midfielder,1,8,0,1,5
+074,64,Neymar,Paris,Forward,1,7,1,27,6
+075,64,Lemar,Atlético,Midfielder,1,7,0,7,8
+076,64,Rakitić,Sevilla,Midfielder,1,7,0,0,5
+077,64,De Ketelaere,Club Brugge,Forward,1,6,10,6,6
+078,64,Malcom,Zenit,Forward,1,6,2,12,6
+079,64,Vormer,Club Brugge,Midfielder,1,6,1,0,4
+080,64,Rieder,Young Boys,Midfielder,1,6,0,2,6
+081,64,Reus,Dortmund,Midfielder,1,5,7,5,6
+082,64,Alan Patrick,Shakhtar Donetsk,Midfielder,1,4,0,5,4
+083,64,Koke,Atlético,Midfielder,1,4,0,2,9
+084,64,Milner,Liverpool,Midfielder,1,4,0,1,8
+085,64,Grealish,Man. City,Midfielder,1,3,6,18,7
+086,64,T. Hernández,Milan,Defender,1,3,4,10,5
+087,64,Benzema,Real Madrid,Forward,1,2,9,18,12
+088,64,Iličić,Atalanta,Midfielder,1,2,2,13,4
+089,64,Dybala,Juventus,Forward,1,2,0,8,5
+090,64,Vanaken,Club Brugge,Midfielder,1,2,0,7,6
+091,64,Bruno Tabata,Sporting CP,Midfielder,1,2,0,2,4
+092,64,João Félix,Atlético,Forward,1,1,3,21,8
+093,64,Taremi,Porto,Forward,1,1,2,4,6
+094,64,Ocampos,Sevilla,Midfielder,1,1,1,16,6
+095,64,Moumi Ngamaleu,Young Boys,Midfielder,1,1,0,34,6
+096,64,Zinchenko,Man. City,Defender,1,1,0,3,8
+097,64,Aurier,Villarreal,Defender,1,1,0,0,5
+098,64,Mané,Liverpool,Midfielder,1,0,9,17,13
+099,64,Paulinho,Sporting CP,Forward,1,0,5,8,8
+100,64,Diogo Jota,Liverpool,Forward,1,0,4,19,11
+101,64,Jesus,Man. City,Forward,1,0,4,7,8
+102,64,Rafa Silva,Benfica,Forward,1,0,3,27,9
+103,64,Rafael Leão,Milan,Forward,1,0,3,16,4
+104,64,Valverde,Real Madrid,Midfielder,1,0,3,10,11
+105,64,Haller,Ajax,Forward,1,0,3,9,8
+106,64,Greenwood,Man. United,Forward,1,0,3,6,4
+107,64,Alexis Sánchez,Inter,Forward,1,0,3,2,6
+108,64,Luis Díaz,Liverpool,Forward,1,0,2,42,13
+109,64,Perišić,Inter,Midfielder,1,0,2,13,8
+110,64,Kristensen,Salzburg,Defender,1,0,2,12,8
+111,64,Džeko,Inter,Forward,1,0,2,4,7
+112,64,Dzyuba,Zenit,Forward,1,0,2,1,6
+113,64,Pavard,Bayern,Defender,1,0,2,0,10
+114,64,Van Dijk,Liverpool,Defender,1,0,2,0,9
+115,64,Musiala,Bayern,Midfielder,1,0,1,20,8
+116,64,Traore,Sheriff,Midfielder,1,0,1,13,6
+117,64,Pulišić,Chelsea,Midfielder,1,0,1,11,7
+118,64,Mæhle,Atalanta,Defender,1,0,1,11,5
+119,64,Carvajal,Real Madrid,Defender,1,0,1,9,11
+120,64,Blind,Ajax,Defender,1,0,1,8,8
+121,64,Meunier,Dortmund,Defender,1,0,1,7,6
+122,64,Zeki Çelik,LOSC,Defender,1,0,1,5,7
+123,64,Gomes,LOSC,Midfielder,1,0,1,3,4
+124,64,Camavinga,Real Madrid,Midfielder,1,0,1,2,10
+125,64,Bentancur,Juventus,Midfielder,1,0,1,2,5
+126,64,Azmoun,Zenit,Forward,1,0,1,2,5
+127,64,Palomino,Atalanta,Defender,1,0,1,0,5
+128,64,Jordi Alba,Barcelona,Defender,1,0,1,0,5
+129,64,Adeyemi,Salzburg,Forward,1,0,0,23,8
+130,64,Birmančević,Malmö,Midfielder,1,0,0,19,6
+131,64,Brahim Díaz,Milan,Midfielder,1,0,0,19,5
+132,64,Loftus-Cheek,Chelsea,Forward,1,0,0,15,8
+133,64,Zappacosta,Atalanta,Defender,1,0,0,12,6
+134,64,Pedraza,Villarreal,Midfielder,1,0,0,9,10
+135,64,Lucas Vázquez,Real Madrid,Midfielder,1,0,0,6,8
+136,64,Freuler,Atalanta,Midfielder,1,0,0,6,6
+137,64,Dumfries,Inter,Defender,1,0,0,5,7
+138,64,Olmo,Leipzig,Forward,1,0,0,5,2
+139,64,Gonçalo Ramos,Benfica,Forward,1,0,0,4,7
+140,64,Kanté,Chelsea,Midfielder,1,0,0,4,6
+141,64,Laimer,Leipzig,Midfielder,1,0,0,4,6
+142,64,Moi Gómez,Villarreal,Midfielder,1,0,0,4,6
+143,64,Sobol,Club Brugge,Defender,1,0,0,4,4
+144,64,Karavaev,Zenit,Defender,1,0,0,4,4
+145,64,De Sciglio,Juventus,Defender,1,0,0,4,4
+146,64,Vertonghen,Benfica,Defender,1,0,0,3,10
+147,64,Azpilicueta,Chelsea,Defender,1,0,0,3,9
+148,64,Martínez,Ajax,Defender,1,0,0,3,8
+149,64,Origi,Liverpool,Forward,1,0,0,3,7
+150,64,Mukiele,Leipzig,Defender,1,0,0,3,6
+151,64,Hefti,Young Boys,Defender,1,0,0,3,6
+152,64,Grujić,Porto,Midfielder,1,0,0,3,6
+153,64,Fábio Vieira,Porto,Midfielder,1,0,0,3,2
+154,64,Gonçalo Inácio,Sporting CP,Defender,1,0,0,2,7
+155,64,Pašalić,Atalanta,Midfielder,1,0,0,2,5
+156,64,Lingard,Man. United,Midfielder,1,0,0,2,4
+157,64,Poulsen,Leipzig,Forward,1,0,0,2,4
+158,64,Schulz,Dortmund,Defender,1,0,0,2,4
+159,64,Al. Miranchuk,Atalanta,Forward,1,0,0,2,2
+160,64,Neuer,Bayern,Goalkeeper,1,0,0,1,9
+161,64,Christensen,Chelsea,Defender,1,0,0,1,8
+162,64,Rafa Mir,Sevilla,Forward,1,0,0,1,6
+163,64,Kalulu,Milan,Defender,1,0,0,1,5
+164,64,Danilo,Juventus,Defender,1,0,0,1,5
+165,64,Tagliafico,Ajax,Defender,1,0,0,1,3
+166,64,Novoa,Leipzig,Midfielder,1,0,0,1,1
+167,64,Thiago Silva,Chelsea,Defender,1,0,0,0,9
+168,64,Marquinhos,Paris,Defender,1,0,0,0,8
+169,64,Klaassen,Ajax,Midfielder,1,0,0,0,7
+170,64,Kessié,Milan,Midfielder,1,0,0,0,5
+171,64,Gerhardt,Wolfsburg,Midfielder,1,0,0,0,5
+172,64,Tolisso,Bayern,Midfielder,1,0,0,0,4
+173,64,Schuurs,Ajax,Defender,1,0,0,0,3
+174,64,Kryvtsov,Shakhtar Donetsk,Defender,1,0,0,0,3
+175,64,Stanišić,Bayern,Defender,1,0,0,0,2
+176,64,Bernardo,Salzburg,Defender,1,0,0,0,2
