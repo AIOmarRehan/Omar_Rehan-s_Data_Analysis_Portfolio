@@ -1,3 +1,7 @@
+[Medium Artilce](https://medium.com/@ai.omar.rehan/from-raw-data-to-real-insights-inside-my-data-analysis-portfolio-7429b38fb004)
+
+---
+
 # Omar Rehan's Data Analysis Portfolio
 
 A collection of data analysis, visualization, database design, and machine learning projects built using Microsoft Excel, Power BI, Tableau Public, Orange Data Mining, and MongoDB. Each project demonstrates a different area of data work, from cleaning and transforming raw datasets to building interactive dashboards and applying classification and clustering algorithms.
